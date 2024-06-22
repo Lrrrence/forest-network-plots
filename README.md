@@ -9,8 +9,8 @@ https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014682/full
 
 Network plots are built from `multinma` elements, converted to `ggraph` for fine tuning of various aesthetics.
 
-![Example of network plot.](/forest-network-plots/Network%20plots/Plots/adverse_events.pdf)
+![Example of network plot.](/Network_plots/Plots/adverse_events.pdf)
 
 Forest plots are built using `ggplot`.
 
-![Example of forest plot.](/forest-network-plots/Forest%20plots/Plots/adverse_events_ADs.pdf)
+![Example of forest plot.](/Forest_plots/Plots/adverse_events_ADs.pdf)
