@@ -2,8 +2,13 @@ library(ggplot2)
 library(ggnewscale)
 library(tidyverse)
 library(grid)
+library(rstudioapi) # get working dir
 
-setwd("C://Users//yulel//Documents//R//NMA//Forest plots")
+# set working directory
+current_file <- rstudioapi::getActiveDocumentContext()$path
+current_dir <- dirname(current_file)
+setwd(current_dir)
+cat("Current working directory set to:", getwd(), "\n")
 
 # import data manually using "import dataset", name df, include header.
 # with all files in the same folder, import all

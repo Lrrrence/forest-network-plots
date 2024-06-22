@@ -4,9 +4,14 @@ library(data.table)
 library(ggrepel)
 library(tidyverse)
 library(tidygraph)
+library(rstudioapi) # get working dir
 options(mc.cores = parallel::detectCores())
 
-setwd("C://Users//yulel//Documents//R//NMA//Network plots")
+# set working directory
+current_file <- rstudioapi::getActiveDocumentContext()$path
+current_dir <- dirname(current_file)
+setwd(current_dir)
+cat("Current working directory set to:", getwd(), "\n")
 
 # use "import dataset", rename to "df". 
 
@@ -101,8 +106,6 @@ p <-  ggraph(new_db_net, layout="star")+
       ggtitle("Withdrawal")+
       labs(size="Total sample size", edge_width="Number of studies", fill="Treatment class")
 p
-
-setwd("C://Users//yulel//Documents//R//NMA//Network plots//Plots")
 
 ggsave(plot = p, width = 38, height = 38, units = "cm", filename = "withdrawal.pdf")
 
