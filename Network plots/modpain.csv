@@ -1,0 +1,103 @@
+study,trt,class,n,r
+ang 2013,cognitive behavioural therapy ,nonad,19,4
+ang 2013,cognitive behavioral therapy and milnacipran ,snri,20,8
+ang 2013,milnacipran ,snri,18,7
+arnold 2005,placebo,placebo,118,39
+arnold 2005,duloxetine ,snri,116,64
+arnold 2005,duloxetine ,snri,113,61
+arnold 2010: 1,placebo,placebo,133,30
+arnold 2010: 1,esreboxetine ,snri,133,50
+arnold 2010: 2,placebo,placebo,509,156
+arnold 2010: 2,milnacipran ,snri,516,230
+arnold 2010: 3,placebo,placebo,248,66
+arnold 2010: 3,duloxetine ,snri,249,90
+arnold 2012: 1,placebo,placebo,153,66
+arnold 2012: 1,duloxetine ,snri,153,76
+arnold 2012: 2,placebo,placebo,276,77
+arnold 2012: 2,esreboxetine ,snri,273,101
+arnold 2012: 2,esreboxetine ,snri,279,110
+arnold 2012: 2,esreboxetine ,snri,280,95
+bateman 2011,milnacipran ,snri,79,27
+bateman 2011,placebo,placebo,21,6
+chappell 2008,placebo,placebo,167,55
+chappell 2008,duloxetine ,snri,158,60
+chappell 2009: 2,placebo,placebo,120,53
+chappell 2009: 2,duloxetine ,snri,111,64
+chappell 2011,placebo,placebo,128,58
+chappell 2011,duloxetine ,snri,128,79
+clauw 2008,placebo,placebo,401,115
+clauw 2008,milnacipran ,snri,399,149
+clauw 2008,milnacipran ,snri,396,158
+enomoto 2018,pregabalin ,nonad,151,94
+enomoto 2018,duloxetine ,snri,152,100
+frakes 2011,placebo,placebo,260,76
+frakes 2011,duloxetine ,snri,264,111
+gao 2010,placebo,placebo,109,67
+gao 2010,duloxetine ,snri,106,74
+gao 2015,placebo,placebo,198,97
+gao 2015,duloxetine ,snri,200,123
+gillving 2021,terbutaline ,nonad,39,6
+gillving 2021,imipramine ,tca,44,16
+gillving 2021,placebo,placebo,38,5
+gould 2020,placebo,placebo,33,13
+gould 2020,desipramine ,tca,37,18
+gould 2020,cognitive behavioural therapy ,nonad,34,12
+gould 2020,desipramine + cognitive behavioural therapy ,tca,37,15
+holbech 2015,placebo,placebo,69,10
+holbech 2015,pregabalin ,nonad,69,16
+holbech 2015,imipramine ,tca,69,20
+holbech 2015,pregabalin + imipramine ,tca,69,36
+kaur 2011,amitriptyline ,tca,58,36
+kaur 2011,duloxetine ,snri,58,37
+mease 2009,placebo,placebo,145,58
+mease 2009,milnacipran ,snri,128,68
+mease 2009,milnacipran ,snri,239,134
+miki 2016,placebo,placebo,211,65
+miki 2016,mirtazapine ,nassa,211,96
+pickering 2018,placebo,placebo,24,6
+pickering 2018,milnacipran ,snri,24,7
+raskin 2005,placebo,placebo,113,49
+raskin 2005,duloxetine ,snri,113,77
+raskin 2005,duloxetine ,snri,114,73
+razazian 2014,carbamazepine ,nonad,85,39
+razazian 2014,pregabalin ,nonad,86,14
+razazian 2014,venlafaxine ,snri,86,20
+rintala 2007,gabapentin ,nonad,22,7
+rintala 2007,amitriptyline ,tca,22,12
+rintala 2007,placebo,placebo,22,7
+russell 2008,placebo,placebo,144,54
+russell 2008,duloxetine ,snri,79,41
+russell 2008,duloxetine ,snri,150,71
+russell 2008,duloxetine ,snri,147,43
+shinichi 2016,placebo,placebo,226,118
+shinichi 2016,duloxetine ,snri,232,159
+skljarevski 2009,placebo,placebo,113,49
+skljarevski 2009,duloxetine ,snri,56,23
+skljarevski 2009,duloxetine ,snri,110,59
+skljarevski 2009,duloxetine ,snri,109,63
+skljarevski 2010: 1,placebo,placebo,115,45
+skljarevski 2010: 1,duloxetine ,snri,109,51
+skljarevski 2010: 2,placebo,placebo,199,97
+skljarevski 2010: 2,duloxetine ,snri,195,111
+smith 2013,placebo,placebo,94,16
+smith 2013,duloxetine ,snri,87,29
+tesfaye 2013,pregabalin ,nonad,374,138
+tesfaye 2013,duloxetine ,snri,375,195
+uchio 2018,placebo,placebo,176,88
+uchio 2018,duloxetine ,snri,177,124
+vitton 2004,placebo,placebo,28,6
+vitton 2004,milnacipran ,snri,46,16
+vitton 2004,milnacipran ,snri,51,20
+vollmer 2014,placebo,placebo,120,29
+vollmer 2014,duloxetine ,snri,115,44
+wang 2017,placebo,placebo,197,98
+wang 2017,duloxetine ,snri,194,123
+wernicke 2006,placebo,placebo,106,45
+wernicke 2006,duloxetine ,snri,110,69
+wernicke 2006,duloxetine ,snri,111,77
+yasuda 2011,placebo,placebo,167,59
+yasuda 2011,duloxetine ,snri,85,47
+yasuda 2011,duloxetine ,snri,86,51
+yeephu 2013,placebo,placebo,13,5
+yeephu 2013,mirtazapine ,nassa,13,7
+yeephu 2013,mirtazapine ,nassa,14,9

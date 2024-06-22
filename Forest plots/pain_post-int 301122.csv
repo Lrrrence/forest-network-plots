@@ -1,0 +1,67 @@
+﻿treatment,mean,lwrCrI (2.5%),uppCrI (97.5%),n,class
+acupuncture ,-1.56,-2.61,-0.53,28,nonad
+aerobic exercise ,-0.2,-1.4,1.07,20,nonad
+amitriptyline + fluoxetine low,-1.47,-2.54,-0.41,18,tca
+amitriptyline + fluphenazine unable to be categorised,-0.16,-1.35,1.03,12,tca
+amitriptyline + splint low,-1.68,-3.07,-0.31,23,tca
+amitriptyline low,-2.01,-2.87,-1.1,125,tca
+amitriptyline standard,-0.68,-1.02,-0.34,422,tca
+amitriptyline unable to be categorised,-0.3,-0.77,0.19,122,tca
+bupropion standard,-0.26,-1.31,0.73,44,ndri
+carbamazepine ,-0.65,-1.65,0.35,14,nonad
+citalopram standard,-0.45,-2.19,1.33,36,ssri
+clomipramine standard,-1,-2.22,0.24,27,tca
+cognitive behavioural therapy ,-0.32,-0.83,0.18,289,nonad
+coping skills training + sertraline high,-0.25,-1.38,0.84,28,ssri
+coping skills training ,-0.11,-1.19,0.96,29,nonad
+cyclobenzaprine ,-0.45,-1.33,0.43,70,nonad
+desipramine + cognitive behavioural therapy low,-0.06,-1.01,0.86,37,tca
+desipramine low,-0.28,-1.18,0.66,37,tca
+desipramine standard,-0.33,-1.18,0.53,135,tca
+disease management ,-0.28,-1.48,0.89,19,nonad
+duloxetine high,-0.59,-1.13,-0.04,177,snri
+duloxetine low,-0.37,-1.22,0.49,136,snri
+duloxetine standard,-0.19,-0.77,0.38,257,snri
+duloxetine unable to be categorised,-0.78,-1.71,0.15,39,snri
+education ,-0.15,-1.04,0.72,66,nonad
+escitalopram high,-0.45,-1.5,0.53,41,ssri
+escitalopram standard,-4.93,-6.37,-3.49,25,ssri
+esreboxetine high,-0.19,-1.08,0.71,280,snri
+esreboxetine standard,-0.33,-1.16,0.47,552,snri
+fluoxetine + melatonin standard,-1.32,-2.28,-0.33,50,ssri
+fluoxetine standard,-0.77,-1.27,-0.27,137,ssri
+fluphenazine ,0.59,-0.64,1.84,13,nonad
+gabapentin ,-0.05,-0.91,0.79,111,nonad
+imipramine standard,-0.4,-1.41,0.61,44,tca
+maprotiline low,-0.4,-0.98,0.19,78,teca
+melatonin + amitriptyline standard,-0.8,-1.85,0.25,21,tca
+melatonin ,-0.91,-1.76,-0.06,48,nonad
+mianserin high,-1.12,-2.24,0,25,teca
+milnacipran high,-0.55,-1.12,0.01,268,snri
+milnacipran standard,-0.17,-0.62,0.3,203,snri
+mirtazapine low,0.5,-0.67,1.66,13,nassa
+mirtazapine standard,0.44,-0.74,1.62,14,nassa
+moclobemide high,-0.47,-1.35,0.41,43,nonad
+morphine + nortriptyline low,-0.21,-1.28,0.9,28,tca
+morphine ,-0.08,-1.08,0.9,79,nonad
+nortriptyline + cognitive behavioural therapy unable to be categorised,-0.27,-1.38,0.86,38,tca
+nortriptyline + disease management unable to be categorised,-0.64,-1.82,0.52,26,tca
+nortriptyline + morphine low,-0.39,-1.66,0.87,51,tca
+nortriptyline low,-0.27,-1.23,0.69,102,tca
+nortriptyline standard,-0.26,-1.26,0.72,79,tca
+paroxetine low,-0.32,-1.2,0.56,64,ssri
+paroxetine unable to be categorised,0.02,-0.7,0.73,45,ssri
+pirlindole low,-1.03,-2.08,0.08,33,maoi rev
+pregabalin + duloxetine unable to be categorised,-0.99,-1.91,-0.06,39,snri
+pregabalin ,-0.55,-1.12,0.05,169,nonad
+reboxetine standard,-0.13,-2.22,1.97,14,nari
+saffron/crocin ,-0.52,-1.88,0.9,49,nonad
+sertraline high,-0.49,-1.58,0.61,30,ssri
+tens ,1.06,0.07,2.03,50,nonad
+terbutaline ,0.21,-0.82,1.24,39,nonad
+trazodone + gabapentin low,-0.26,-1.48,0.97,93,sari
+trazodone standard,-0.18,-1.27,0.89,21,sari
+trimipramine low,-1.24,-2.49,0.03,14,tca
+venlafaxine low,0.02,-1.07,1.12,22,snri
+waitlist ,-0.21,-1.42,0.97,21,nonad
+zimeldine low,-0.03,-1.19,1.14,15,ssri

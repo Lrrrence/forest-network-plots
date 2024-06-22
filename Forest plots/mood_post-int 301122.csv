@@ -1,0 +1,45 @@
+﻿,mean,lwrCrI (2.5%),uppCrI (97.5%),n,class
+acupuncture,-0.38,-1.59,0.83,28,nonad
+aerobic exercise,-0.56,-2.42,1.26,20,nonad
+amitriptyline,-0.35,-0.85,0.12,378,tca
+amitriptyline + fluoxetine,-0.45,-1.77,0.86,18,tca
+amitriptyline + fluphenazine,-0.75,-2.2,0.72,12,tca
+amitriptyline + splint,-0.53,-2.06,1.03,23,tca
+carbamazepine,1.36,-0.06,2.74,78,nonad
+citalopram,-0.2,-2.3,1.98,36,ssri
+cognitive behavioural therapy,-0.43,-1.84,1.01,56,nonad
+coping skills training,0.39,-1.07,1.93,29,nonad
+coping skills training + sertraline,0.01,-1.41,1.46,28,ssri
+cyclobenzaprine,-0.35,-1.64,0.89,70,nonad
+disease management,0.08,-1.92,2.19,19,nonad
+dothiepin,-0.12,-1.7,1.39,25,tca
+duloxetine,-0.36,-0.89,0.21,311,snri
+escitalopram,-1.56,-2.63,-0.49,84,ssri
+fluoxetine,-0.33,-1.3,0.63,76,ssri
+fluoxetine + melatonin,-0.49,-2.08,1.14,50,ssri
+fluphenazine,0,-1.43,1.43,13,nonad
+gabapentin,-0.13,-1.85,1.63,46,nonad
+gabapentin + nortriptyline,0.01,-1.84,1.8,50,tca
+melatonin,-0.73,-2.52,1.08,27,nonad
+milnacipran,0.15,-0.74,1.01,81,snri
+mirtazapine,0.76,-0.62,2.12,27,nassa
+moclobemide,0.25,-1.02,1.56,43,maoi rev
+morphine,0.12,-1.08,1.26,79,nonad
+morphine + nortriptyline,-0.36,-1.72,1.04,28,tca
+neurofeedback,-2.54,-4.4,-0.73,18,nonad
+nortriptyline,-0.12,-1.11,0.89,231,tca
+nortriptyline + cognitive behavioural therapy,-0.18,-2.24,1.86,38,tca
+nortriptyline + disease management,-0.01,-1.98,2.03,26,tca
+nortriptyline + morphine,0.01,-1.57,1.65,51,tca
+paroxetine,-0.32,-1.34,0.69,87,ssri
+pirlindole,-0.06,-1.52,1.44,33,maoi rev
+pregabalin,-0.18,-0.9,0.57,157,nonad
+pregabalin + duloxetine,0.09,-1.19,1.37,39,snri
+reboxetine,-0.53,-3.1,2.04,14,nari
+saffron/crocin,-0.29,-1.85,1.34,49,nonad
+sertraline,0.4,-1.08,1.82,30,ssri
+tens,1.53,-0.34,3.45,20,nonad
+trazodone,0.37,-1.18,1.91,21,sari
+trimipramine,-0.32,-1.91,1.28,14,tca
+venlafaxine,0.14,-0.72,1.03,155,snri
+waitlist,-0.31,-1.81,1.16,21,nonad

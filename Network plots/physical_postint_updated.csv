@@ -1,0 +1,80 @@
+﻿study,trt,class,mean,sd,se,n
+abou-raya 2012,placebo,placebo,30.3,9.8,,144
+abou-raya 2012,duloxetine,snri,24.6,8.4,,144
+arnold 2012: 2,placebo,placebo,38.19,,0.46,255
+arnold 2012: 2,esreboxetine,snri,38.49,,0.48,241
+arnold 2012: 2,esreboxetine,snri,39.51,,0.47,247
+arnold 2012: 2,esreboxetine,snri,38.28,,0.47,250
+ash 1999,placebo,placebo,1.82,0.89,,23
+ash 1999,dothiepin,tca,1.85,0.88,,25
+boyle 2012,pregabalin,nonad,31.1,,10.9,19
+boyle 2012,amitriptyline,tca,38.5,,8.8,23
+boyle 2012,duloxetine,snri,36.6,,9.4,23
+cardenas 2002,placebo,placebo,53.7,18.3,,40
+cardenas 2002,amitriptyline,tca,66.3,16.7,,44
+carette 1994,placebo,placebo,9.01,10.6,,36
+carette 1994,amitriptyline,tca,8.3,8.25,,78
+carette 1994,cyclobenzaprine,nonad,6.65,6.82,,70
+dickens 2000,placebo,placebo,52.4,13.6,,48
+dickens 2000,paroxetine,ssri,50.2,15.2,,44
+gilron 2009,gabapentin,nonad,61.6,,2.6,46
+gilron 2009,nortriptyline,tca,61.7,,2.5,50
+gilron 2009,gabapentin + nortriptyline,tca,64.3,,2.5,50
+gilron 2016,placebo,placebo,52.9,,3.1,39
+gilron 2016,pregabalin,nonad,57.1,,3.1,39
+gilron 2016,duloxetine,snri,61.4,,3.2,39
+gilron 2016,pregabalin + duloxetine,snri,65.3,,3.3,39
+goodkin 1990,placebo,placebo,22.84,12.72,,19
+goodkin 1990,trazodone,sari,25.41,17.04,,21
+gould 2020,placebo,placebo,9.5,5.15,,33
+gould 2020,desipramine,tca,7.65,5.99,,37
+gould 2020,benzotropine mesylate + cognitive behavioural therapy,nonad,9.33,5.74,,34
+gould 2020,desipramine + cognitive behavioural therapy,tca,8.66,5.79,,37
+hadianfard 2012,acupuncture,nonad,3.5,2.5,,15
+hadianfard 2012,fluoxetine,ssri,3.3,2.2,,15
+hannonen 1998,moclobemide,maoi_rev,19.6,17.6,,43
+hannonen 1998,amitriptyline,tca,20.7,18.3,,42
+hannonen 1998,placebo,placebo,25.4,17.7,,45
+hudson 2021,nortriptyline,tca,39.6,24.4,,102
+hudson 2021,placebo,placebo,41.9,24.2,,103
+hussain 2011,melatonin,nonad,6.25,,0.35,27
+hussain 2011,fluoxetine,ssri,5.5,,0.27,24
+hussain 2011,fluoxetine + melatonin,ssri,5.08,,0.28,27
+hussain 2011,fluoxetine + melatonin,ssri,3.1,,0.23,23
+keefe 2010,placebo,placebo,4.46,9.37,,28
+keefe 2010,sertraline,ssri,3.06,7.72,,30
+keefe 2010,coping skills training,nonad,3.64,5.34,,29
+keefe 2010,coping skills training + sertraline,ssri,2.15,3.78,,28
+khoromi 2007,placebo,placebo,30.5,15.9,,28
+khoromi 2007,morphine,nonad,25.7,16.5,,28
+khoromi 2007,nortriptyline,tca,27.5,16.7,,28
+khoromi 2007,morphine + nortriptyline,tca,27.4,15.4,,28
+lee 2010,placebo,placebo,55.1,14.7,,21
+lee 2010,venlafaxine,snri,55,14.8,,22
+matthey 2013,placebo,placebo,38.7,7.3,,39
+matthey 2013,milnacipran,snri,38,7.7,,38
+muller 2008,placebo,placebo,13.4,1.5,,26
+muller 2008,escitalopram,ssri,6.9,1.6,,25
+nct 2011,placebo,placebo,26,18,,12
+nct 2011,milnacipran,snri,15,10,,26
+robinson 2004,placebo,placebo,79.1,3.3,,18
+robinson 2004,amitriptyline,tca,74.5,18.8,,19
+schukro 2016,placebo,placebo,31.3,9.3,,21
+schukro 2016,duloxetine,snri,36,10.9,,21
+sofat 2016,placebo,placebo,508.7,309.19,,22
+sofat 2016,pregabalin,nonad,362.2,192.64,,22
+sofat 2016,duloxetine,snri,496.4,360.18,,21
+spinhoven 2010,placebo,placebo,7,3.3,,23
+spinhoven 2010,paroxetine,ssri,4.7,3,,23
+spinhoven 2010,cognitive behavioural therapy,nonad,4.9,3.9,,23
+suttiruksa 2016,placebo,placebo,58,7.2,,13
+suttiruksa 2016,mirtazapine,nassa,80,5.1,,13
+suttiruksa 2016,mirtazapine,nassa,76.7,6,,14
+tetreault 2018,placebo,placebo,39.05,18.85,,20
+tetreault 2018,duloxetine,snri,39.89,17.43,,19
+urquhart 2018,placebo,placebo,5.9,0.6,,74
+urquhart 2018,amitriptyline,tca,4.7,0.5,,72
+vranken 2011,placebo,placebo,38,25,,23
+vranken 2011,duloxetine,snri,41,27,,21
+wolfe 1994,placebo,placebo,0.8,0.76,,9
+wolfe 1994,fluoxetine,ssri,0.7,0.43,,15

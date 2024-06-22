@@ -1,0 +1,43 @@
+﻿study,trt,class,mean,sd,se,n
+arnold 2010: 1,placebo,placebo,-3.96,,1.5,127
+arnold 2010: 1,esreboxetine unable to be categorised,snri,-5.47,,1.51,126
+chappell 2009: 1,duloxetine standard,snri,-1.16,,0.32,104
+chappell 2009: 1,duloxetine high,snri,-0.23,,0.23,203
+clauw 2008,placebo,placebo,3,,1.1,401
+clauw 2008,milnacipran standard,snri,1.7,,1.1,398
+clauw 2008,milnacipran high,snri,2.3,,1.2,396
+frakes 2011,placebo,placebo,-2.01,,0.14,256
+frakes 2011,duloxetine high,snri,-2.69,,0.14,258
+gao 2010,placebo,placebo,-2.67,,0.27,109
+gao 2010,duloxetine high,snri,-2.85,,0.28,106
+gao 2015,placebo,placebo,-2.04,,0.17,176
+gao 2015,duloxetine standard,snri,-2.63,,0.17,173
+murakami 2015,placebo,placebo,-1.57,,0.36,195
+murakami 2015,duloxetine standard,snri,-1.82,,0.35,191
+norregaard 1995,placebo,placebo,-0.1,2.5,,21
+norregaard 1995,citalopram standard,ssri,-1,2.9,,21
+raskin 2005,placebo,placebo,-2.25,,0.24,10
+raskin 2005,duloxetine standard,snri,-3.3,,0.23,108
+raskin 2005,duloxetine high,snri,-3,,0.24,107
+shinichi 2016,placebo,placebo,-1.4,,0.11,200
+shinichi 2016,duloxetine standard,snri,-1.41,,0.11,209
+skljarevski 2009,placebo,placebo,-1.63,,0.23,113
+skljarevski 2009,duloxetine low,snri,-1.59,,0.32,56
+skljarevski 2009,duloxetine standard,snri,-2.48,,0.24,107
+skljarevski 2009,duloxetine high,snri,-2.12,,0.24,108
+skljarevski 2010: 1,placebo,placebo,-1.3,3.01,,115
+skljarevski 2010: 1,duloxetine high,snri,-1.66,3.19,,109
+skljarevski 2010: 2,placebo,placebo,-1.45,,0.17,199
+skljarevski 2010: 2,duloxetine standard,snri,-2.14,,0.17,195
+uchio 2018,placebo,placebo,-1.19,,0.11,176
+uchio 2018,duloxetine standard,snri,-1.65,,0.11,177
+vitton 2004,placebo,placebo,-0.5,2.9,,28
+vitton 2004,milnacipran unable to be categorised,snri,-1.3,3.6,,46
+vitton 2004,milnacipran unable to be categorised,snri,-1.3,2.6,,51
+vollmer 2014,placebo,placebo,-1.6,,0.2,121
+vollmer 2014,duloxetine standard,snri,-2,,0.2,118
+wang 2017,placebo,placebo,-0.99,,0.13,177
+wang 2017,duloxetine standard,snri,-1.21,,0.14,172
+yasuda 2011,placebo,placebo,-1.69,,0.2,167
+yasuda 2011,duloxetine low,snri,-2.26,,0.29,85
+yasuda 2011,duloxetine standard,snri,-2.05,,0.29,86

@@ -1,0 +1,167 @@
+study,trt,class,dose,n,r
+ahmed 2016,placebo,placebo,placebo,15,1
+ahmed 2016,milnacipran standard,snri,standard,15,1
+allen 2014,placebo,placebo,placebo,91,6
+allen 2014,desvenlafaxine standard,snri,standard,63,1
+allen 2014,desvenlafaxine high,snri,high,91,1
+allen 2014,desvenlafaxine high,snri,high,100,1
+allen 2014,desvenlafaxine high,snri,high,70,3
+allen 2017,placebo,placebo,placebo,130,6
+allen 2017,desvenlafaxine standard,snri,standard,136,3
+allen 2017,desvenlafaxine high,snri,high,139,3
+allen 2017,desvenlafaxine high,snri,high,142,6
+allen 2017,desvenlafaxine high,snri,high,149,6
+ang 2013,cognitive behavioural therapy ,nonad,nonad,15,1
+ang 2013,cognitive behavioral therapy and milnacipran standard,snri,standard,17,1
+ang 2013,milnacipran standard,snri,standard,17,1
+aragona 2005,citalopram standard,ssri,standard,17,1
+aragona 2005,reboxetine standard,nari,standard,18,1
+arnold 2005,placebo,placebo,placebo,120,1
+arnold 2005,duloxetine standard,snri,standard,125,1
+arnold 2005,duloxetine high,snri,high,125,1
+arnold 2010: 1,placebo,placebo,placebo,133,11
+arnold 2010: 1,esreboxetine unable to be categorised,snri,unable to be categorised,134,20
+arnold 2010: 2,placebo,placebo,placebo,509,6
+arnold 2010: 2,milnacipran standard,snri,standard,516,8
+arnold 2010: 3,placebo,placebo,placebo,250,6
+arnold 2010: 3,duloxetine high,snri,high,250,1
+arnold 2012: 1,placebo,placebo,placebo,155,1
+arnold 2012: 1,duloxetine low,snri,low,153,1
+arnold 2012: 2,placebo,placebo,placebo,277,1
+arnold 2012: 2,esreboxetine standard,snri,standard,274,2
+arnold 2012: 2,esreboxetine standard,snri,standard,282,1
+arnold 2012: 2,esreboxetine high,snri,high,281,2
+bateman 2011,milnacipran unable to be categorised,snri,unable to be categorised,86,2
+bateman 2011,placebo,placebo,placebo,21,1
+bird 2000,paroxetine unable to be categorised,ssri,unable to be categorised,94,1
+bird 2000,amitriptyline high,tca,high,96,4
+branco 2010,placebo,placebo,placebo,440,11
+branco 2010,milnacipran high,snri,high,423,11
+chappell 2008,placebo,placebo,placebo,167,4
+chappell 2008,duloxetine high,snri,high,160,4
+chappell 2009: 1,duloxetine standard,snri,standard,103,6
+chappell 2009: 1,duloxetine high,snri,high,203,12
+chappell 2009: 2,placebo,placebo,placebo,118,2
+chappell 2009: 2,duloxetine high,snri,high,111,1
+chappell 2011,placebo,placebo,placebo,125,2
+chappell 2011,duloxetine high,snri,high,130,3
+clauw 2008,placebo,placebo,placebo,400,6
+clauw 2008,milnacipran standard,snri,standard,385,5
+clauw 2008,milnacipran high,snri,high,400,4
+enomoto 2018,pregabalin ,nonad,nonad,151,6
+enomoto 2018,duloxetine low,snri,low,152,1
+frakes 2011,placebo,placebo,placebo,250,3
+frakes 2011,duloxetine high,snri,high,263,5
+gao 2010,placebo,placebo,placebo,109,2
+gao 2010,duloxetine high,snri,high,106,2
+gao 2015,placebo,placebo,placebo,202,2
+gao 2015,duloxetine standard,snri,standard,202,3
+gillving 2021,terbutaline ,nonad,nonad,51,1
+gillving 2021,imipramine standard,tca,standard,51,1
+gillving 2021,placebo,placebo,placebo,51,1
+glaxosmithkline 2005,placebo,placebo,placebo,26,2
+glaxosmithkline 2005,paroxetine low,ssri,low,26,1
+goldman 2010,placebo,placebo,placebo,59,1
+goldman 2010,amitriptyline standard,tca,standard,59,1
+gould 2020,placebo,placebo,placebo,33,1
+gould 2020,desipramine low,tca,low,38,1
+gould 2020,cognitive behavioural therapy ,nonad,nonad,34,1
+gould 2020,desipramine + cognitive behavioural therapy low,tca,low,37,1
+heymann 2001,amitriptyline standard,tca,standard,40,1
+heymann 2001,nortriptyline low,tca,low,38,1
+heymann 2001,placebo,placebo,placebo,40,1
+hudson 2021,nortriptyline low,tca,low,99,4
+hudson 2021,placebo,placebo,placebo,102,3
+iwaki 2020,placebo,placebo,placebo,23,1
+iwaki 2020,duloxetine low,snri,low,23,3
+katz 2005,placebo,placebo,placebo,54,1
+katz 2005,bupropion standard,ndri,standard,54,2
+keefe 2010,placebo,placebo,placebo,28,1
+keefe 2010,sertraline high,ssri,high,30,1
+keefe 2010,coping skills training ,nonad,nonad,29,1
+keefe 2010,coping skills training + sertraline high,ssri,high,28,1
+kim 2013,placebo,placebo,placebo,20,1
+kim 2013,milnacipran unable to be categorised,snri,unable to be categorised,20,1
+lee 2016,placebo,placebo,placebo,41,1
+lee 2016,milnacipran standard,snri,standard,41,1
+leijon 1989,placebo,placebo,placebo,15,1
+leijon 1989,amitriptyline standard,tca,standard,15,1
+leijon 1989,carbamazepine ,nonad,nonad,14,1
+masand 2009,placebo,placebo,placebo,36,1
+masand 2009,paroxetine low,ssri,low,36,1
+mease 2009,placebo,placebo,placebo,223,6
+mease 2009,milnacipran standard,snri,standard,224,3
+mease 2009,milnacipran high,snri,high,441,11
+miki 2016,placebo,placebo,placebo,215,1
+miki 2016,mirtazapine standard,nassa,standard,215,1
+murakami 2015,placebo,placebo,placebo,197,1
+murakami 2015,duloxetine standard,snri,standard,196,1
+natelson 2015,placebo,placebo,placebo,17,1
+natelson 2015,milnacipran standard,snri,standard,17,1
+nct 2011,placebo,placebo,placebo,17,1
+nct 2011,milnacipran high,snri,high,29,1
+nct 2003,cognitive behavioural therapy ,nonad,nonad,38,1
+nct 2003,nortriptyline + cognitive behavioural therapy unable to be categorised,tca,unable to be categorised,41,1
+nct 2003,disease management ,nonad,nonad,24,1
+nct 2003,nortriptyline + disease management unable to be categorised,tca,unable to be categorised,37,1
+nct 2010,placebo,placebo,placebo,20,1
+nct 2010,milnacipran high,snri,high,20,1
+patkar 2007,placebo,placebo,placebo,58,2
+patkar 2007,paroxetine unable to be categorised,ssri,unable to be categorised,58,2
+petzke 2013,placebo,placebo,placebo,46,2
+petzke 2013,milnacipran high,snri,high,46,4
+pickering 2018,placebo,placebo,placebo,29,1
+pickering 2018,milnacipran standard,snri,standard,25,1
+raskin 2005,placebo,placebo,placebo,116,4
+raskin 2005,duloxetine standard,snri,standard,116,4
+raskin 2005,duloxetine high,snri,high,116,2
+razazian 2014,carbamazepine ,nonad,nonad,85,1
+razazian 2014,pregabalin ,nonad,nonad,86,1
+razazian 2014,venlafaxine standard,snri,standard,86,1
+rowbotham 2004,placebo,placebo,placebo,81,8
+rowbotham 2004,venlafaxine low,snri,low,82,7
+rowbotham 2004,venlafaxine high,snri,high,82,10
+shinichi 2016,placebo,placebo,placebo,222,4
+shinichi 2016,duloxetine standard,snri,standard,222,4
+skljarevski 2009,placebo,placebo,placebo,117,3
+skljarevski 2009,duloxetine low,snri,low,59,1
+skljarevski 2009,duloxetine standard,snri,standard,116,1
+skljarevski 2009,duloxetine high,snri,high,112,3
+skljarevski 2010: 1,placebo,placebo,placebo,121,1
+skljarevski 2010: 1,duloxetine high,snri,high,115,4
+skljarevski 2010: 2,placebo,placebo,placebo,203,1
+skljarevski 2010: 2,duloxetine standard,snri,standard,198,5
+smith 2013,placebo,placebo,placebo,111,1
+smith 2013,duloxetine standard,snri,standard,109,1
+suttiruksa 2016,placebo,placebo,placebo,13,1
+suttiruksa 2016,mirtazapine low,nassa,low,13,1
+suttiruksa 2016,mirtazapine standard,nassa,standard,14,1
+talley 2008,placebo,placebo,placebo,16,1
+talley 2008,imipramine low,tca,low,18,1
+talley 2008,citalopram standard,ssri,standard,17,1
+tesfaye 2013,pregabalin ,nonad,nonad,406,13
+tesfaye 2013,duloxetine standard,snri,standard,400,12
+tetreault 2018,placebo,placebo,placebo,20,1
+tetreault 2018,duloxetine standard,snri,standard,20,1
+trugman 2014,placebo,placebo,placebo,111,1
+trugman 2014,milnacipran high,snri,high,210,3
+uchio 2018,placebo,placebo,placebo,176,1
+uchio 2018,duloxetine standard,snri,standard,177,1
+van ophoven 2004,placebo,placebo,placebo,25,1
+van ophoven 2004,amitriptyline unable to be categorised,tca,unable to be categorised,25,1
+vitton 2004,placebo,placebo,placebo,28,1
+vitton 2004,milnacipran unable to be categorised,snri,unable to be categorised,46,1
+vitton 2004,milnacipran unable to be categorised,snri,unable to be categorised,51,1
+vollmer 2014,placebo,placebo,placebo,121,1
+vollmer 2014,duloxetine standard,snri,standard,118,4
+wang 2017,placebo,placebo,placebo,202,3
+wang 2017,duloxetine standard,snri,standard,205,1
+wernicke 2006,placebo,placebo,placebo,108,5
+wernicke 2006,duloxetine standard,snri,standard,114,5
+wernicke 2006,duloxetine high,snri,high,112,2
+yasuda 2011,placebo,placebo,placebo,167,6
+yasuda 2011,duloxetine low,snri,low,86,3
+yasuda 2011,duloxetine standard,snri,standard,86,2
+yeephu 2013,placebo,placebo,placebo,13,1
+yeephu 2013,mirtazapine low,nassa,low,13,1
+yeephu 2013,mirtazapine standard,nassa,standard,14,1

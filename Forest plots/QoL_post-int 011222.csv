@@ -1,0 +1,23 @@
+﻿treatment,mean,lwrCrI (2.5%),uppCrI (97.5%),n,class
+abt-894,-0.1,-0.93,0.74,169,nonad
+acupuncture,0.32,-0.84,1.51,28,nonad
+amitriptyline,0.36,-0.28,1.01,181,tca
+amitriptyline + fluoxetine,-0.53,-1.74,0.63,19,tca + ssri
+amitriptyline + splint,-0.07,-1.44,1.24,23,tca
+cognitive behavioural therapy,0.16,-0.75,1.04,199,nonad
+desipramine,0.21,-0.93,1.29,135,tca
+duloxetine,0.02,-0.56,0.58,306,snri
+education,0.03,-1.13,1.14,66,nonad
+esreboxetine,-0.3,-1.24,0.64,736,snri
+fluoxetine,0.27,-0.65,1.27,61,ssri
+fluoxetine + melatonin,0.04,-1.22,1.35,50,ssri
+imipramine,0.01,-1.22,1.21,42,tca
+melatonin,0.52,-0.62,1.64,48,nonad
+melatonin + amitriptyline,0.24,-1.09,1.55,21,tca
+milnacipran,-0.39,-1.33,0.58,53,snri
+nortriptyline,0.33,-0.83,1.42,36,tca
+pregabalin,-0.3,-1.25,0.59,53,nonad
+pregabalin + duloxetine,-0.7,-1.81,0.35,39,snri
+saffron/crocin,0.08,-1.4,1.47,23,nonad
+terbutaline,-0.32,-1.55,0.89,40,nonad
+waitlist,0.36,-0.99,1.73,21,nonad

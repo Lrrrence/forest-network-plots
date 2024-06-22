@@ -1,0 +1,178 @@
+study,trt,class,dose,mean,sd,se,n
+abou-raya 2012,placebo,placebo,placebo,8.4,5.4,,144
+abou-raya 2012,duloxetine standard,snri,standard,6,4.1,,144
+ahmed 2016,placebo,placebo,placebo,4.7,,0.4,15
+ahmed 2016,milnacipran standard,snri,standard,4.1,,0.6,15
+aragona 2005,citalopram standard,ssri,standard,2.8,0.9,,15
+aragona 2005,reboxetine standard,nari,standard,3.1,0.9,,14
+arnold 2012: 2,placebo,placebo,placebo,5.42,,0.13,276
+arnold 2012: 2,esreboxetine standard,snri,standard,4.68,,0.14,273
+arnold 2012: 2,esreboxetine standard,snri,standard,4.65,,0.14,279
+arnold 2012: 2,esreboxetine high,snri,high,4.99,,0.14,280
+atkinson 1999,maprotiline low,teca,low,6.8,4.72,,20
+atkinson 1999,paroxetine unable to be categorised,ssri,unable to be categorised,8.2,4,,22
+atkinson 1999,placebo,placebo,placebo,7.7,4.63,,32
+boyle 2012,pregabalin ,nonad,nonad,2.4,,0.4,19
+boyle 2012,amitriptyline standard,tca,standard,2.6,,0.6,23
+boyle 2012,duloxetine high,snri,high,2.2,,0.4,23
+cardenas 2002,placebo,placebo,placebo,4,2,,40
+cardenas 2002,amitriptyline unable to be categorised,tca,unable to be categorised,4.5,1.9,,44
+carette 1986,placebo,placebo,placebo,5,3,,32
+carette 1986,amitriptyline unable to be categorised,tca,unable to be categorised,4.3,3,,27
+carette 1994,placebo,placebo,placebo,21.6,14.4,,36
+carette 1994,amitriptyline standard,tca,standard,19.5,13.5,,78
+carette 1994,cyclobenzaprine ,nonad,nonad,19.3,14.8,,70
+chappell 2009: 2,placebo,placebo,placebo,5.54,2.29,,119
+chappell 2009: 2,duloxetine high,snri,high,4.64,2.32,,108
+dezanette 2014,melatonin ,nonad,nonad,47.53,21.96,,21
+dezanette 2014,amitriptyline standard,tca,standard,50.02,25.6,,21
+dezanette 2014,melatonin + amitriptyline standard,tca,standard,48.64,15.38,,21
+dickens 2000,placebo,placebo,placebo,57,24.3,,48
+dickens 2000,paroxetine low,ssri,low,57,23.8,,44
+drossman 2003,placebo,placebo,placebo,10.73,,0.83,66
+drossman 2003,desipramine standard,tca,standard,8.94,,0.62,135
+drossman 2003,cognitive behavioural therapy ,nonad,nonad,9.52,,0.54,135
+drossman 2003,education ,nonad,nonad,10.13,,0.89,66
+eberhard 1988,maprotiline low,teca,low,62,26.2,,25
+eberhard 1988,clomipramine standard,tca,standard,45.4,29,,27
+gillving 2021,terbutaline ,nonad,nonad,6.13,2.34,,39
+gillving 2021,imipramine standard,tca,standard,4.77,2.43,,44
+gillving 2021,placebo,placebo,placebo,5.66,1.91,,38
+gilron 2015,morphine ,nonad,nonad,3.4,,0.4,51
+gilron 2015,nortriptyline standard,tca,standard,3.1,,0.4,51
+gilron 2015,nortriptyline + morphine low,tca,low,2.6,,0.4,51
+gilron 2016,placebo,placebo,placebo,5.1,,0.3,39
+gilron 2016,pregabalin ,nonad,nonad,5,,0.3,39
+gilron 2016,duloxetine unable to be categorised,snri,unable to be categorised,4.1,,0.3,39
+gilron 2016,pregabalin + duloxetine unable to be categorised,snri,unable to be categorised,3.7,,0.3,39
+ginsberg 1996,placebo,placebo,placebo,7,1.3,,22
+ginsberg 1996,amitriptyline standard,tca,standard,3.8,2.4,,24
+ginsberg 1998,placebo,placebo,placebo,6.79,1.53,,28
+ginsberg 1998,pirlindole low,maoi_rev,low,4.85,2.11,,33
+goldenberg 1996,placebo,placebo,placebo,81.5,16.5,,19
+goldenberg 1996,amitriptyline standard,tca,standard,64.4,28.3,,21
+goldenberg 1996,fluoxetine standard,ssri,standard,57.5,25.7,,22
+goldenberg 1996,amitriptyline + fluoxetine low,tca + ssri,low,42.9,28.5,,18
+goldman 2010,placebo,placebo,placebo,3.9,1.9,,59
+goldman 2010,amitriptyline standard,tca,standard,4,1.8,,59
+goodkin 1990,placebo,placebo,placebo,5.88,2.62,,19
+goodkin 1990,trazodone standard,sari,standard,5.34,2.99,,21
+gould 2020,placebo,placebo,placebo,8.72,5.49,,33
+gould 2020,desipramine low,tca,low,7.55,5.63,,37
+gould 2020,cognitive behavioural therapy ,nonad,nonad,7.61,5.32,,34
+gould 2020,desipramine + cognitive behavioural therapy low,tca,low,8.74,5.55,,37
+graff-radford 2000,amitriptyline unable to be categorised,tca,unable to be categorised,26.6,16.77,,11
+graff-radford 2000,amitriptyline + fluphenazine unable to be categorised,tca,unable to be categorised,35.41,24.53,,12
+graff-radford 2000,fluphenazine ,nonad,nonad,53.9,27.79,,13
+graff-radford 2000,placebo,placebo,placebo,48.53,24.99,,13
+hadianfard 2012,acupuncture ,nonad,nonad,5.5,2.3,,15
+hadianfard 2012,fluoxetine standard,ssri,standard,6.4,2.1,,15
+hammody 2015,pregabalin ,nonad,nonad,7.12,4.601,,33
+hammody 2015,amitriptyline standard,tca,standard,8.71,3.727,,45
+hannonen 1998,moclobemide high,maoi_rev,high,4.5,2.7,,43
+hannonen 1998,amitriptyline standard,tca,standard,4.5,2.8,,42
+hannonen 1998,placebo,placebo,placebo,5.2,2.7,,45
+hudson 2021,nortriptyline low,snri,low,36,23.2,,102
+hudson 2021,placebo,placebo,placebo,42.5,24,,103
+hussain 2011,melatonin ,nonad,nonad,6.08,,0.36,27
+hussain 2011,fluoxetine standard,ssri,standard,6.55,,0.34,24
+hussain 2011,fluoxetine + melatonin standard,ssri,standard,5.33,,0.47,27
+hussain 2011,fluoxetine + melatonin standard,ssri,standard,5.4,,0.37,23
+johansson 1979,placebo,placebo,placebo,47.6,,7.8,15
+johansson 1979,zimeldine low,ssri,low,46.8,,5.1,15
+joharchi 2019,duloxetine low,snri,low,16.2,4.2,,66
+joharchi 2019,pregabalin ,nonad,nonad,16,5.5,,78
+katz 2005,placebo,placebo,placebo,3.56,2.14,,44
+katz 2005,bupropion standard,ndri,standard,3.05,1.68,,44
+keefe 2010,placebo,placebo,placebo,10.02,16.35,,28
+keefe 2010,sertraline high,ssri,high,3.55,9.82,,30
+keefe 2010,coping skills training ,nonad,nonad,8.57,14.87,,29
+keefe 2010,coping skills training + sertraline high,ssri,high,6.63,11.92,,28
+khoromi 2007,placebo,placebo,placebo,3.9,2.4,,28
+khoromi 2007,morphine ,nonad,nonad,3.8,2.5,,28
+khoromi 2007,nortriptyline standard,tca,standard,3.2,2.4,,28
+khoromi 2007,morphine + nortriptyline low,tca,low,3.4,2.5,,28
+lee 2010,placebo,placebo,placebo,52.4,14.3,,21
+lee 2010,venlafaxine low,snri,low,52.7,13,,22
+lee 2016,placebo,placebo,placebo,4.9,2.1,,32
+lee 2016,milnacipran standard,snri,standard,4.8,2.2,,32
+leijon 1989,placebo,placebo,placebo,5.3,2,,15
+leijon 1989,amitriptyline standard,tca,standard,4.2,1.6,,15
+leijon 1989,carbamazepine ,nonad,nonad,4.2,1.7,,14
+lipone 2020,gabapentin ,nonad,nonad,3.2,1.8,,48
+lipone 2020,trazodone + gabapentin low,sari,low,2.6,1.68,,43
+lipone 2020,trazodone + gabapentin low,sari,low,3,1.86,,50
+luo 2009,placebo,placebo,placebo,55.33,25.44,,40
+luo 2009,fluoxetine standard,ssri,standard,33.08,18.81,,40
+maarrawi 2018,placebo,placebo,placebo,6.12,0.92,,108
+maarrawi 2018,amitriptyline low,tca,low,3.34,1.45,,104
+macfarlane 1986,placebo,placebo,placebo,2.6,0.72,,13
+macfarlane 1986,trimipramine low,tca,low,1.8,0.53,,14
+machado 2018,waitlist ,nonad,nonad,7.48,1.29,,21
+machado 2018,amitriptyline low,tca,low,3.43,2.5,,21
+machado 2018,amitriptyline + splint low,tca,low,3.65,3.32,,23
+machado 2018,acupuncture ,nonad,nonad,3.23,2.74,,13
+majdinasab 2019,gabapentin ,nonad,nonad,39.43,14.32,,41
+majdinasab 2019,duloxetine low,snri,low,36.78,15.62,,47
+matthey 2013,placebo,placebo,placebo,58.3,24.6,,39
+matthey 2013,milnacipran high,snri,high,46.7,26.3,,38
+mease 2009,placebo,placebo,placebo,50.86,,2.11,128
+mease 2009,milnacipran standard,snri,standard,43.31,,2.21,115
+mease 2009,milnacipran high,snri,high,43.42,,1.77,204
+muller 2008,placebo,placebo,placebo,5.8,0.6,,26
+muller 2008,escitalopram standard,ssri,standard,2.8,0.6,,25
+nabi 2021,tens ,nonad,nonad,3.43,0.77,,30
+nabi 2021,duloxetine standard,snri,standard,2.76,0.67,,30
+nct 2011,placebo,placebo,placebo,51,24,,12
+nct 2011,milnacipran high,snri,high,20,22,,26
+nct 2003,cognitive behavioural therapy ,nonad,nonad,2.7,2.1,,33
+nct 2003,nortriptyline + cognitive behavioural therapy unable to be categorised,tca,unable to be categorised,2.8,2.6,,38
+nct 2003,disease management ,nonad,nonad,2.8,2.1,,19
+nct 2003,nortriptyline + disease management unable to be categorised,tca,unable to be categorised,2,1.4,,26
+otto 2008,placebo,placebo,placebo,5.5,2.1,,41
+otto 2008,escitalopram high,ssri,high,4.5,2.3,,41
+pakfetrat 2019,saffron/crocin ,nonad,nonad,1.1,1.57,,26
+pakfetrat 2019,citalopram standard,ssri,standard,1.2,1.67,,21
+pickering 2018,placebo,placebo,placebo,5.6,1.8,,24
+pickering 2018,milnacipran standard,snri,standard,5.3,2.5,,24
+rani 1996,placebo,placebo,placebo,1.67,0.74,,18
+rani 1996,fluoxetine standard,ssri,standard,1.24,0.56,,21
+rani 1996,ital standard,tca,standard,1.33,0.61,,20
+rintala 2007,gabapentin ,nonad,nonad,4.85,2.86,,22
+rintala 2007,amitriptyline unable to be categorised,tca,unable to be categorised,3.46,2.09,,22
+rintala 2007,placebo,placebo,placebo,5.11,2.54,,22
+robinson 2004,placebo,placebo,placebo,12.5,8.6,,19
+robinson 2004,amitriptyline unable to be categorised,tca,unable to be categorised,11.6,10,,18
+schukro 2016,placebo,placebo,placebo,6,2.7,,25
+schukro 2016,duloxetine high,snri,high,4.1,2.9,,25
+sencan 2004,aerobic exercise ,nonad,nonad,4.05,0.91,,20
+sencan 2004,paroxetine low,ssri,low,3.55,1.35,,20
+sencan 2004,tens ,nonad,nonad,6.2,1.81,,20
+shakiba 2018,saffron/crocin ,nonad,nonad,38.48,16.2,,23
+shakiba 2018,duloxetine low,snri,low,40.43,12.61,,23
+spinhoven 2010,placebo,placebo,placebo,23.5,18.5,,23
+spinhoven 2010,paroxetine unable to be categorised,ssri,unable to be categorised,20.9,19.4,,23
+spinhoven 2010,cognitive behavioural therapy ,nonad,nonad,11.9,14,,23
+staud 2015,placebo,placebo,placebo,4.5,2.3,,18
+staud 2015,milnacipran standard,snri,standard,5.1,2.3,,17
+suttiruksa 2016,placebo,placebo,placebo,49,18.4,,13
+suttiruksa 2016,mirtazapine low,nassa,low,58,18.2,,13
+suttiruksa 2016,mirtazapine standard,nassa,standard,57,19,,14
+tanum 1996,placebo,placebo,placebo,42.8,20.9,,22
+tanum 1996,mianserin high,teca,high,16.9,24.3,,25
+tetreault 2018,placebo,placebo,placebo,5.55,2.04,,20
+tetreault 2018,duloxetine standard,snri,standard,5.32,1.6,,19
+urquhart 2018,placebo,placebo,placebo,37.1,3.2,,74
+urquhart 2018,amitriptyline standard,tca,standard,28.9,2.6,,61
+vranken 2011,placebo,placebo,placebo,6.1,1.7,,23
+vranken 2011,duloxetine high,snri,high,5,2,,21
+vrethem 1997: 1,amitriptyline standard,tca,standard,3.5,1.6,,17
+vrethem 1997: 1,maprotiline low,teca,low,4,2.3,,16
+vrethem 1997: 1,placebo,placebo,placebo,5.4,1.5,,17
+vrethem 1997: 2,amitriptyline standard,tca,standard,3.3,2.1,,16
+vrethem 1997: 2,maprotiline low,teca,low,3.3,1.9,,17
+vrethem 1997: 2,placebo,placebo,placebo,3.7,2.3,,16
+wolfe 1994,placebo,placebo,placebo,1.6,0.79,,9
+wolfe 1994,fluoxetine standard,ssri,standard,1.6,0.79,,15
+zabihiyeganeh 2021,cognitive behavioural therapy ,nonad,nonad,8.9,3.2,,64
+zabihiyeganeh 2021,duloxetine standard,snri,standard,9.2,3.4,,64

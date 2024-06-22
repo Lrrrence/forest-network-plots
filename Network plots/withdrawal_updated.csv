@@ -1,0 +1,384 @@
+study,trt,class,n,r
+abou-raya 2012,placebo,placebo,144,13
+abou-raya 2012,duloxetine,snri,144,21
+agger 2017,placebo,placebo,68,15
+agger 2017,imipramine,tca,70,13
+ahmed 2016,placebo,placebo,19,1
+ahmed 2016,milnacipran,snri,19,3
+alcoff 1982,placebo,placebo,22,2
+alcoff 1982,imipramine,tca,28,7
+allen 2014,placebo,placebo,90,15
+allen 2014,desvenlafaxine,snri,63,12
+allen 2014,desvenlafaxine,snri,87,18
+allen 2014,desvenlafaxine,snri,99,31
+allen 2014,desvenlafaxine,snri,69,27
+allen 2017,placebo,placebo,130,84
+allen 2017,desvenlafaxine,snri,136,87
+allen 2017,desvenlafaxine,snri,140,81
+allen 2017,desvenlafaxine,snri,142,100
+allen 2017,desvenlafaxine,snri,149,93
+anderberg 2000,placebo,placebo,19,1
+anderberg 2000,citalopram,ssri,21,4
+ang 2013,cognitive behavioural therapy,nonad,19,4
+ang 2013,cognitive behavioral therapy and milnacipran,snri,20,3
+ang 2013,milnacipran,snri,19,2
+aragona 2005,citalopram,ssri,17,6
+aragona 2005,reboxetine,nari,18,9
+arnold 2002,placebo,placebo,30,12
+arnold 2002,fluoxetine,ssri,30,11
+arnold 2004,placebo,placebo,103,37
+arnold 2004,duloxetine,snri,104,46
+arnold 2005,placebo,placebo,121,52
+arnold 2005,duloxetine,snri,117,41
+arnold 2005,duloxetine,snri,115,45
+arnold 2010: 1,placebo,placebo,133,27
+arnold 2010: 1,esreboxetine,snri,134,27
+arnold 2010: 2,placebo,placebo,509,150
+arnold 2010: 2,milnacipran,snri,516,159
+arnold 2010: 3,placebo,placebo,267,80
+arnold 2010: 3,duloxetine,snri,263,87
+arnold 2012: 1,placebo,placebo,110,31
+arnold 2012: 1,duloxetine,snri,121,29
+arnold 2012: 2,placebo,placebo,278,76
+arnold 2012: 2,esreboxetine,snri,277,103
+arnold 2012: 2,esreboxetine,snri,284,111
+arnold 2012: 2,esreboxetine,snri,283,108
+ash 1999,placebo,placebo,25,10
+ash 1999,dothiepin,tca,25,10
+atkinson 1998,placebo,placebo,40,11
+atkinson 1998,nortriptyline,tca,38,10
+atkinson 1999,maprotiline,teca,33,13
+atkinson 1999,paroxetine,ssri,34,12
+atkinson 1999,placebo,placebo,36,4
+bansal 2009,amitriptyline,tca,25,3
+bansal 2009,pregabalin,nonad,26,4
+bateman 2011,milnacipran,snri,86,35
+bateman 2011,placebo,placebo,21,10
+bird 2000,paroxetine,ssri,95,18
+bird 2000,amitriptyline,tca,105,20
+boyle 2012,pregabalin,nonad,27,5
+boyle 2012,amitriptyline,tca,28,4
+boyle 2012,duloxetine,snri,28,1
+branco 2010,placebo,placebo,449,79
+branco 2010,milnacipran,snri,435,127
+braz 2013,placebo,placebo,17,4
+braz 2013,amitriptyline,tca,16,3
+braz 2013,panax ginseng,nonad,19,7
+calderon 2011,placebo,placebo,13,2
+calderon 2011,cognitive behavioural therapy,nonad,11,2
+calderon 2011,amitriptyline,tca,11,2
+calderon 2011,cognitive behavioural therapy and amitriptyline,tca,12,4
+cardenas 2002,placebo,placebo,40,3
+cardenas 2002,amitriptyline,tca,44,8
+carette 1986,placebo,placebo,32,4
+carette 1986,amitriptyline,tca,27,7
+carette 1994,placebo,placebo,84,14
+carette 1994,amitriptyline,tca,82,14
+carette 1994,cyclobenzaprine,nonad,42,24
+caruso 1987,placebo,placebo,30,4
+caruso 1987,dothiepin,tca,30,4
+chappell 2008,placebo,placebo,168,65
+chappell 2008,duloxetine,snri,162,61
+chappell 2009: 1,duloxetine,snri,96,31
+chappell 2009: 1,duloxetine,snri,49,38
+chappell 2009: 2,placebo,placebo,120,24
+chappell 2009: 2,duloxetine,snri,111,34
+chappell 2011,placebo,placebo,128,17
+chappell 2011,duloxetine,snri,128,35
+clauw 2008,placebo,placebo,405,115
+clauw 2008,milnacipran,snri,401,137
+clauw 2008,milnacipran,snri,401,144
+creed 2003,psychotherapy,nonad,44,26
+creed 2003,paroxetine,ssri,49,32
+creed 2003,usual treatment,nonad,30,11
+creed 2003,psychotherapy,nonad,46,29
+creed 2003,paroxetine,ssri,48,27
+creed 2003,usual treatment,nonad,40,21
+dezanette 2014,melatonin,nonad,9,2
+dezanette 2014,amitriptyline,tca,9,2
+dezanette 2014,melatonin + amitriptyline,tca,9,2
+drossman 2003,placebo,placebo,72,16
+drossman 2003,desipramine,tca,144,49
+drossman 2003,cognitive behavioural therapy,nonad,144,33
+drossman 2003,education,nonad,71,25
+eberhard 1988,maprotiline,teca,30,5
+eberhard 1988,clomipramine,tca,40,13
+enomoto 2018,pregabalin,nonad,151,21
+enomoto 2018,duloxetine,snri,152,15
+enteshari-moghaddam 2019,acetaminophen,nonad,50,1
+enteshari-moghaddam 2019,duloxetine,snri,50,1
+enteshari-moghaddam 2019,gabapentin,nonad,50,1
+forssell 2004,venlafaxine,snri,30,6
+forssell 2004,placebo,placebo,30,4
+foster 2010: 1,placebo,placebo,33,2
+foster 2010: 1,lidocaine,nonad,33,5
+foster 2010: 1,desipramine,tca,33,6
+foster 2010: 1,desipramine + lidocaine,tca,34,6
+foster 2010: 2,placebo,placebo,136,17
+foster 2010: 2,amitriptyline,tca,135,23
+frakes 2011,placebo,placebo,260,61
+frakes 2011,duloxetine,snri,264,75
+gao 2010,placebo,placebo,109,17
+gao 2010,duloxetine,snri,106,19
+gao 2015,placebo,placebo,202,26
+gao 2015,duloxetine,snri,203,30
+gillving 2021,terbutaline,nonad,51,5
+gillving 2021,imipramine,tca,51,4
+gillving 2021,placebo,placebo,51,3
+gilron 2009,gabapentin,nonad,56,8
+gilron 2009,nortriptyline,tca,56,1
+gilron 2009,gabapentin + nortriptyline,tca,56,2
+gilron 2015,morphine,nonad,52,9
+gilron 2015,nortriptyline,tca,52,2
+gilron 2015,nortriptyline + morphine,tca,52,7
+gilron 2016,placebo,placebo,41,1
+gilron 2016,pregabalin,nonad,41,1
+gilron 2016,duloxetine,snri,41,3
+gilron 2016,pregabalin + duloxetine,snri,41,4
+ginsberg 1996,placebo,placebo,25,3
+ginsberg 1996,amitriptyline,tca,26,2
+ginsberg 1998,placebo,placebo,44,22
+ginsberg 1998,pirlindole,maoi_rev,45,17
+glaxosmithkline 2005,placebo,placebo,26,5
+glaxosmithkline 2005,paroxetine,ssri,26,8
+goldenberg 1986,amitriptyline + naproxen,tca,19,1
+goldenberg 1986,naproxen,nonad,19,1
+goldenberg 1986,amitriptyline,tca,19,1
+goldenberg 1986,placebo,placebo,19,1
+goldenberg 1996,placebo,placebo,31,1
+goldenberg 1996,amitriptyline,tca,31,1
+goldenberg 1996,fluoxetine,ssri,31,4
+goldenberg 1996,amitriptyline + fluoxetine,tca + ssri,31,5
+goldman 2010,placebo,placebo,59,4
+goldman 2010,amitriptyline,tca,59,8
+goldstein 2005,placebo,placebo,115,28
+goldstein 2005,duloxetine,snri,115,24
+goldstein 2005,duloxetine,snri,114,28
+goldstein 2005,duloxetine,snri,113,33
+gonzalez-viejo 2005,physical therapy,nonad,34,1
+gonzalez-viejo 2005,sertraline,ssri,36,1
+goodkin 1990,placebo,placebo,20,4
+goodkin 1990,trazodone,sari,22,9
+gould 2020,placebo,placebo,33,9
+gould 2020,desipramine,tca,38,11
+gould 2020,cognitive behavioural therapy,nonad,34,7
+gould 2020,desipramine + cognitive behavioural therapy,tca,37,16
+grace 1985,placebo,placebo,18,4
+grace 1985,amitriptyline,tca,18,4
+graff-radford 2000,amitriptyline,tca,12,1
+graff-radford 2000,amitriptyline + fluphenazine,tca,12,1
+graff-radford 2000,fluphenazine,nonad,13,1
+graff-radford 2000,placebo,placebo,13,1
+hameroff 1984,placebo,placebo,30,6
+hameroff 1984,doxepin,tca,30,3
+hannonen 1998,moclobemide,maoi_rev,43,13
+hannonen 1998,amitriptyline,tca,42,10
+hannonen 1998,placebo,placebo,45,15
+heymann 2001,amitriptyline,tca,40,3
+heymann 2001,nortriptyline,tca,38,2
+heymann 2001,placebo,placebo,40,7
+holbech 2015,placebo,placebo,73,5
+holbech 2015,pregabalin,nonad,73,5
+holbech 2015,imipramine,tca,73,4
+holbech 2015,pregabalin + imipramine,tca,73,9
+hudson 2021,nortriptyline,tca,102,3
+hudson 2021,placebo,placebo,103,1
+iwaki 2020,placebo,placebo,23,2
+iwaki 2020,duloxetine,snri,23,7
+johansson 1979,placebo,placebo,17,3
+johansson 1979,zimeldine,ssri,17,5
+joharchi 2019,duloxetine,snri,90,24
+joharchi 2019,pregabalin,nonad,90,12
+jose 2007,lamotrigine,nonad,53,1
+jose 2007,amitriptyline,tca,53,7
+katz 2005,placebo,placebo,54,5
+katz 2005,bupropion,ndri,54,9
+kayiran 2010,neurofeedback,nonad,20,2
+kayiran 2010,escitalopram,ssri,20,2
+keefe 2010,placebo,placebo,28,6
+keefe 2010,sertraline,ssri,30,5
+keefe 2010,coping skills training,nonad,29,8
+keefe 2010,coping skills training + sertraline,ssri,28,12
+khoromi 2007,placebo,placebo,55,9
+khoromi 2007,morphine,nonad,55,9
+khoromi 2007,nortriptyline,tca,55,3
+khoromi 2007,morphine + nortriptyline,tca,55,6
+lee 2010,placebo,placebo,25,3
+lee 2010,venlafaxine,snri,25,1
+lee 2016,placebo,placebo,41,3
+lee 2016,milnacipran,snri,41,6
+leijon 1989,placebo,placebo,15,1
+leijon 1989,amitriptyline,tca,15,1
+leijon 1989,carbamazepine,nonad,14,1
+lipone 2020,gabapentin,nonad,48,13
+lipone 2020,trazodone + gabapentin,sari,43,10
+lipone 2020,trazodone + gabapentin,sari,51,15
+loldrup 1989,placebo,placebo,87,15
+loldrup 1989,clomipramine,tca,84,28
+loldrup 1989,mianserin,teca,82,28
+macfarlane 1986,placebo,placebo,18,4
+macfarlane 1986,trimipramine,tca,18,5
+machado 2018,waitlist,nonad,24,3
+machado 2018,amitriptyline,tca,24,3
+machado 2018,amitriptyline + splint,tca,24,1
+machado 2018,acupuncture,nonad,24,11
+mahmoud 2021,amitriptyline,tca,40,5
+mahmoud 2021,amitriptyline,tca,40,5
+majdinasab 2019,gabapentin,nonad,52,11
+majdinasab 2019,duloxetine,snri,52,5
+masand 2009,placebo,placebo,36,8
+masand 2009,paroxetine,ssri,36,6
+matthey 2013,placebo,placebo,40,16
+matthey 2013,milnacipran,snri,40,21
+mease 2009,placebo,placebo,223,78
+mease 2009,milnacipran,snri,224,96
+mease 2009,milnacipran,snri,441,202
+miki 2016,placebo,placebo,215,23
+miki 2016,mirtazapine,nassa,215,25
+morello 1999,gabapentin,nonad,25,2
+morello 1999,amitriptyline,tca,25,2
+muller 2008,placebo,placebo,26,1
+muller 2008,escitalopram,ssri,25,1
+murakami 2015,placebo,placebo,197,48
+murakami 2015,duloxetine,snri,196,30
+nabi 2021,tens,nonad,30,1
+nabi 2021,duloxetine,snri,42,12
+natelson 2015,placebo,placebo,17,4
+natelson 2015,milnacipran,snri,17,4
+nct 2011,placebo,placebo,17,5
+nct 2011,milnacipran,snri,29,3
+nct 2003,cognitive behavioural therapy,nonad,38,5
+nct 2003,nortriptyline + cognitive behavioural therapy,tca,41,3
+nct 2003,disease management,nonad,24,5
+nct 2003,nortriptyline + disease management,tca,37,11
+nct 2010,placebo,placebo,20,1
+nct 2010,milnacipran,snri,20,4
+otto 2008,placebo,placebo,41,4
+otto 2008,escitalopram,ssri,41,6
+pakfetrat 2019,saffron/crocin,nonad,26,1
+pakfetrat 2019,citalopram,ssri,21,1
+patkar 2007,placebo,placebo,58,10
+patkar 2007,paroxetine,ssri,58,20
+petzke 2013,placebo,placebo,46,8
+petzke 2013,milnacipran,snri,46,13
+pickering 2018,placebo,placebo,29,1
+pickering 2018,milnacipran,snri,25,5
+pilowsky 1990,amitriptyline + psychotherapy,tca,26,6
+pilowsky 1990,amitriptyline + support,tca,26,7
+pilowsky 1990,psychotherapy,nonad,26,5
+pilowsky 1990,support,nonad,24,7
+rani 1996,placebo,placebo,18,1
+rani 1996,fluoxetine,ssri,21,1
+rani 1996,amitriptyline,tca,20,1
+raskin 2005,placebo,placebo,116,16
+raskin 2005,duloxetine,snri,116,15
+raskin 2005,duloxetine,snri,116,21
+razazian 2014,carbamazepine,nonad,85,7
+razazian 2014,pregabalin,nonad,86,9
+razazian 2014,venlafaxine,snri,86,17
+richards 2015,placebo,placebo,59,14
+richards 2015,venlafaxine,snri,64,15
+rintala 2007,gabapentin,nonad,38,12
+rintala 2007,amitriptyline,tca,38,10
+rintala 2007,placebo,placebo,38,13
+robinson 2004,placebo,placebo,19,1
+robinson 2004,amitriptyline,tca,20,2
+rowbotham 2004,placebo,placebo,81,12
+rowbotham 2004,venlafaxine,snri,82,13
+rowbotham 2004,venlafaxine,snri,82,18
+rowbotham 2005,desipramine,tca,15,2
+rowbotham 2005,amitriptyline,tca,17,2
+rowbotham 2005,fluoxetine,ssri,15,5
+rowbotham 2012,placebo,placebo,51,7
+rowbotham 2012,duloxetine,snri,57,13
+rowbotham 2012,abt-894,nonad,61,8
+rowbotham 2012,abt-894,nonad,56,8
+rowbotham 2012,abt-894,nonad,55,7
+russell 2008,placebo,placebo,144,72
+russell 2008,duloxetine,snri,79,35
+russell 2008,duloxetine,snri,150,68
+russell 2008,duloxetine,snri,147,68
+schukro 2016,placebo,placebo,41,6
+schukro 2016,duloxetine,snri,41,6
+scudds 1989,placebo,placebo,39,2
+scudds 1989,amitriptyline,tca,39,1
+sencan 2004,aerobic exercise,nonad,20,6
+sencan 2004,paroxetine,ssri,20,2
+sencan 2004,tens,nonad,20,1
+shakiba 2018,saffron/crocin,nonad,27,4
+shakiba 2018,duloxetine,snri,27,4
+shinichi 2016,placebo,placebo,226,26
+shinichi 2016,duloxetine,snri,232,23
+skljarevski 2009,placebo,placebo,117,35
+skljarevski 2009,duloxetine,snri,59,16
+skljarevski 2009,duloxetine,snri,116,36
+skljarevski 2009,duloxetine,snri,112,50
+skljarevski 2010: 1,placebo,placebo,121,23
+skljarevski 2010: 1,duloxetine,snri,115,31
+skljarevski 2010: 2,placebo,placebo,203,47
+skljarevski 2010: 2,duloxetine,snri,198,51
+smith 2013,placebo,placebo,111,12
+smith 2013,duloxetine,snri,109,21
+sofat 2016,placebo,placebo,22,3
+sofat 2016,pregabalin,nonad,22,5
+sofat 2016,duloxetine,snri,21,5
+spinhoven 2010,placebo,placebo,23,4
+spinhoven 2010,paroxetine,ssri,23,7
+spinhoven 2010,cognitive behavioural therapy,nonad,23,1
+srinivasan 2021,naltrexone,nonad,67,2
+srinivasan 2021,amitriptyline,tca,67,5
+staud 2015,placebo,placebo,23,5
+staud 2015,milnacipran,snri,23,6
+suttiruksa 2016,placebo,placebo,13,3
+suttiruksa 2016,mirtazapine,nassa,13,2
+suttiruksa 2016,mirtazapine,nassa,14,3
+talley 2008,placebo,placebo,16,3
+talley 2008,imipramine,tca,18,9
+talley 2008,citalopram,ssri,17,5
+tammiala-salonen 1999,placebo,placebo,19,2
+tammiala-salonen 1999,trazodone,sari,18,7
+tanum 1996,placebo,placebo,22,1
+tanum 1996,mianserin,teca,27,2
+tesfaye 2013,pregabalin,nonad,403,70
+tesfaye 2013,duloxetine,snri,401,68
+trugman 2014,placebo,placebo,111,25
+trugman 2014,milnacipran,snri,210,40
+uchio 2018,placebo,placebo,176,14
+uchio 2018,duloxetine,snri,178,17
+urquhart 2018,placebo,placebo,74,15
+urquhart 2018,amitriptyline,tca,72,13
+vahedi 2005,placebo,placebo,22,1
+vahedi 2005,fluoxetine,ssri,22,1
+van ophoven 2004,placebo,placebo,25,1
+van ophoven 2004,amitriptyline,tca,25,1
+ventafridda 1987,amitriptyline,tca,22,4
+ventafridda 1987,trazodone,sari,23,10
+vitton 2004,placebo,placebo,28,7
+vitton 2004,milnacipran,snri,46,14
+vitton 2004,milnacipran,snri,51,14
+vollmer 2014,placebo,placebo,121,12
+vollmer 2014,duloxetine,snri,118,18
+vranken 2011,placebo,placebo,24,1
+vranken 2011,duloxetine,snri,24,3
+wang 2017,placebo,placebo,202,26
+wang 2017,duloxetine,snri,205,39
+watson 1992,amitriptyline,tca,35,2
+watson 1992,maprotiline,teca,35,1
+watson 1998,amitriptyline,tca,33,1
+watson 1998,nortriptyline,tca,33,1
+wernicke 2006,placebo,placebo,108,23
+wernicke 2006,duloxetine,snri,114,29
+wernicke 2006,duloxetine,snri,112,34
+wolfe 1994,placebo,placebo,21,12
+wolfe 1994,fluoxetine,ssri,21,6
+yasuda 2011,placebo,placebo,167,17
+yasuda 2011,duloxetine,snri,86,13
+yasuda 2011,duloxetine,snri,86,14
+yeephu 2013,placebo,placebo,13,3
+yeephu 2013,mirtazapine,nassa,13,2
+yeephu 2013,mirtazapine,nassa,14,3
+yucel 2005,placebo,placebo,20,1
+yucel 2005,venlafaxine,snri,20,1
+yucel 2005,venlafaxine,snri,20,3
+zabihiyeganeh 2021,cognitive behavioural therapy,nonad,64,12
+zabihiyeganeh 2021,duloxetine,snri,64,11

@@ -1,0 +1,108 @@
+study,trt,class,n,r
+allen 2017,placebo,placebo,126,28
+allen 2017,desvenlafaxine standard,snri,131,31
+allen 2017,desvenlafaxine high,snri,131,29
+allen 2017,desvenlafaxine high,snri,132,33
+allen 2017,desvenlafaxine high,snri,139,25
+arnold 2005,placebo,placebo,117,27
+arnold 2005,duloxetine standard,snri,117,48
+arnold 2005,duloxetine high,snri,115,47
+arnold 2010: 1,placebo,placebo,133,11
+arnold 2010: 1,esreboxetine unable to be categorised,snri,133,24
+arnold 2010: 2,placebo,placebo,509,92
+arnold 2010: 2,milnacipran standard,snri,516,143
+arnold 2010: 3,placebo,placebo,248,41
+arnold 2010: 3,duloxetine high,snri,249,62
+arnold 2012: 1,placebo,placebo,153,55
+arnold 2012: 1,duloxetine low,snri,153,56
+arnold 2012: 2,placebo,placebo,275,33
+arnold 2012: 2,esreboxetine standard,snri,274,49
+arnold 2012: 2,esreboxetine standard,snri,279,56
+arnold 2012: 2,esreboxetine high,snri,280,42
+bateman 2011,milnacipran unable to be categorised,snri,79,20
+bateman 2011,placebo,placebo,21,3
+chappell 2008,placebo,placebo,167,30
+chappell 2008,duloxetine high,snri,158,37
+mease 2009,placebo,placebo,145,38
+mease 2009,milnacipran standard,snri,128,44
+mease 2009,milnacipran high,snri,239,88
+miki 2016,placebo,placebo,211,33
+miki 2016,mirtazapine standard,nassa,211,41
+russell 2008,placebo,placebo,144,31
+russell 2008,duloxetine standard,snri,79,29
+russell 2008,duloxetine standard,snri,150,49
+russell 2008,duloxetine high,snri,147,53
+vitton 2004,placebo,placebo,28,6
+vitton 2004,milnacipran unable to be categorised,snri,46,12
+vitton 2004,milnacipran unable to be categorised,snri,51,15
+chappell 2009: 2,placebo,placebo,120,35
+chappell 2009: 2,duloxetine high,snri,111,52
+chappell 2011,placebo,placebo,128,28
+chappell 2011,duloxetine high,snri,128,49
+frakes 2011,placebo,placebo,260,35
+frakes 2011,duloxetine high,snri,264,73
+schukro 2016,placebo,placebo,25,2
+schukro 2016,duloxetine high,snri,25,10
+shinichi 2016,placebo,placebo,226,89
+shinichi 2016,duloxetine standard,snri,232,131
+skljarevski 2009,placebo,placebo,113,33
+skljarevski 2009,duloxetine low,snri,56,12
+skljarevski 2009,duloxetine standard,snri,110,38
+skljarevski 2009,duloxetine high,snri,109,40
+skljarevski 2010: 1,placebo,placebo,115,22
+skljarevski 2010: 1,duloxetine high,snri,109,34
+skljarevski 2010: 2,placebo,placebo,199,69
+skljarevski 2010: 2,duloxetine standard,snri,195,95
+uchio 2018,placebo,placebo,176,69
+uchio 2018,duloxetine standard,snri,177,114
+wang 2017,placebo,placebo,197,68
+wang 2017,duloxetine standard,snri,194,83
+allen 2014,placebo,placebo,89,23
+allen 2014,desvenlafaxine standard,snri,63,22
+allen 2014,desvenlafaxine high,snri,86,32
+allen 2014,desvenlafaxine high,snri,99,36
+allen 2014,desvenlafaxine high,snri,68,22
+enomoto 2018,pregabalin ,nonad,149,62
+enomoto 2018,duloxetine low,snri,152,62
+gao 2010,placebo,placebo,109,55
+gao 2010,duloxetine high,snri,106,57
+gao 2015,placebo,placebo,198,57
+gao 2015,duloxetine standard,snri,200,84
+gillving 2021,terbutaline ,nonad,39,2
+gillving 2021,imipramine standard,tca,44,12
+gillving 2021,placebo,placebo,38,3
+goldstein 2005,placebo,placebo,90,29
+goldstein 2005,duloxetine low,snri,89,46
+goldstein 2005,duloxetine standard,snri,89,55
+goldstein 2005,duloxetine high,snri,91,57
+holbech 2015,placebo,placebo,69,4
+holbech 2015,pregabalin ,nonad,69,8
+holbech 2015,imipramine standard,tca,69,14
+holbech 2015,pregabalin + imipramine standard,tca,69,19
+kaur 2011,amitriptyline unable to be categorised,tca,58,32
+kaur 2011,duloxetine low,snri,58,34
+raskin 2005,placebo,placebo,113,34
+raskin 2005,duloxetine standard,snri,113,57
+raskin 2005,duloxetine high,snri,114,44
+razazian 2014,carbamazepine ,nonad,85,35
+razazian 2014,pregabalin ,nonad,86,66
+razazian 2014,venlafaxine standard,snri,86,36
+richards 2015,placebo,placebo,59,14
+richards 2015,venlafaxine unable to be categorised,snri,64,32
+rowbotham 2004,placebo,placebo,80,27
+rowbotham 2004,venlafaxine high,snri,82,46
+smith 2013,placebo,placebo,94,8
+smith 2013,duloxetine standard,snri,87,18
+tesfaye 2013,pregabalin ,nonad,374,104
+tesfaye 2013,duloxetine standard,snri,375,151
+vollmer 2014,placebo,placebo,121,16
+vollmer 2014,duloxetine standard,snri,115,24
+wernicke 2006,placebo,placebo,106,29
+wernicke 2006,duloxetine standard,snri,110,47
+wernicke 2006,duloxetine high,snri,111,59
+yasuda 2011,placebo,placebo,167,33
+yasuda 2011,duloxetine low,snri,85,32
+yasuda 2011,duloxetine standard,snri,86,35
+loldrup 1989,placebo,placebo,66,25
+loldrup 1989,clomipramine standard,tca,62,30
+loldrup 1989,mianserin high,teca,64,29

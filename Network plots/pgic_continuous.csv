@@ -1,0 +1,65 @@
+study,trt,class,mean,sd,se,n
+allen 2014,placebo,placebo,3.13,1.13,0.12961989,76
+allen 2014,desvenlafaxine standard,snri,2.74,1.1,0.14969104,54
+allen 2014,desvenlafaxine high,snri,2.71,1.09,0.130279918,70
+allen 2014,desvenlafaxine high,snri,2.35,1.08,0.130016721,69
+allen 2014,desvenlafaxine high,snri,2.52,1.07,0.159506182,45
+arnold 2004,placebo,placebo,3.53,1.69,0.169851391,99
+arnold 2004,duloxetine high,snri,3.02,1.66,0.170312406,95
+arnold 2005,placebo,placebo,3.71,1.5,0.142373699,111
+arnold 2005,duloxetine standard,snri,3.11,1.77,0.165775689,114
+arnold 2005,duloxetine high,snri,3.06,1.73,0.164204333,111
+arnold 2010: 3,placebo,placebo,3.36,1.44,0.090176298,255
+arnold 2010: 3,duloxetine high,snri,2.79,1.57,0.100303621,245
+arnold 2012: 1,placebo,placebo,3.35,1.48,0.119650908,153
+arnold 2012: 1,duloxetine low,snri,2.97,1.48,0.119650908,153
+chappell 2008,placebo,placebo,3.72,1.54,0.119888837,165
+chappell 2008,duloxetine high,snri,3.43,1.63,0.129675837,158
+chappell 2009: 1,duloxetine standard,snri,2.19,1.53,0.150028843,104
+chappell 2009: 1,duloxetine high,snri,2.65,1.57,0.110192398,203
+chappell 2009: 2,placebo,placebo,2.91,1.28,0.119882984,114
+chappell 2009: 2,duloxetine high,snri,2.38,1.22,0.119630842,104
+chappell 2011,placebo,placebo,3.07,1.13,0.099878833,128
+chappell 2011,duloxetine high,snri,2.77,1.24,0.109601551,128
+enomoto 2018,pregabalin ,nonad,2.6,1.22,0.099946294,149
+enomoto 2018,duloxetine low,snri,2.4,1.23,0.099766174,152
+gao 2010,placebo,placebo,2.64,1.04,0.099613934,109
+gao 2010,duloxetine high,snri,2.32,1.13,0.109755302,106
+gao 2015,placebo,placebo,2.65,0.93,0.070101388,176
+gao 2015,duloxetine standard,snri,2.44,0.92,0.069946305,173
+goldstein 2005,placebo,placebo,2.91,1.26,0.119593907,111
+goldstein 2005,duloxetine low,snri,2.68,1.25,0.120281306,108
+goldstein 2005,duloxetine standard,snri,2.21,1.26,0.119593907,111
+goldstein 2005,duloxetine high,snri,2.24,1.25,0.119728286,109
+raskin 2005,placebo,placebo,3.04,1.06,0.100160585,112
+raskin 2005,duloxetine standard,snri,2.5,1.04,0.099613934,109
+raskin 2005,duloxetine high,snri,2.54,1.05,0.09966159,111
+rowbotham 2012,placebo,placebo,3,1.43,0.200240052,51
+rowbotham 2012,duloxetine standard,snri,2.8,1.51,0.200004386,57
+rowbotham 2012,abt-894 ,nonad,2.9,0.78,0.099868766,61
+rowbotham 2012,abt-894 ,nonad,3,1.5,0.200445931,56
+rowbotham 2012,abt-894 ,nonad,3,1.48,0.199563159,55
+russell 2008,placebo,placebo,3.37,1.56,0.13,144
+russell 2008,duloxetine standard,snri,2.79,1.51,0.169888273,79
+russell 2008,duloxetine standard,snri,3.08,1.59,0.129822956,150
+russell 2008,duloxetine high,snri,2.93,1.58,0.130316204,147
+shinichi 2016,placebo,placebo,2.76,0.99,0.070003571,200
+shinichi 2016,duloxetine standard,snri,2.46,1.01,0.069863161,209
+skljarevski 2009,placebo,placebo,2.93,1.39,0.130185428,114
+skljarevski 2009,duloxetine low,snri,2.72,1.28,0.169540142,57
+skljarevski 2009,duloxetine standard,snri,2.44,1.35,0.129903811,108
+skljarevski 2009,duloxetine high,snri,2.66,1.34,0.12954269,107
+skljarevski 2010: 1,placebo,placebo,3.23,1.26,0.117495606,115
+skljarevski 2010: 1,duloxetine high,snri,2.81,1.18,0.114074906,107
+skljarevski 2010: 2,placebo,placebo,3.19,1.27,0.090027913,199
+skljarevski 2010: 2,duloxetine standard,snri,2.88,1.25,0.08974477,194
+tesfaye 2013,pregabalin ,nonad,2.94,1.43,0.071233374,403
+tesfaye 2013,duloxetine standard,snri,2.6,1.12,0.055930131,401
+uchio 2018,placebo,placebo,2.84,1.19,0.089699625,176
+uchio 2018,duloxetine standard,snri,2.23,1.2,0.090197523,177
+wernicke 2006,placebo,placebo,3.17,1.44,0.140529611,105
+wernicke 2006,duloxetine standard,snri,2.61,1.44,0.13606721,112
+wernicke 2006,duloxetine high,snri,2.4,1.29,0.124709007,107
+yasuda 2011,placebo,placebo,3.18,1.54,0.119888837,165
+yasuda 2011,duloxetine low,snri,2.53,1.28,0.13965945,84
+yasuda 2011,duloxetine standard,snri,2.52,1.29,0.139920145,85

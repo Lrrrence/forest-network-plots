@@ -1,0 +1,93 @@
+study,trt,class,mean,sd,se,n
+ang 2013,cognitive behavioural therapy ,nonad,-3.19,,1.11,15
+ang 2013,cognitive behavioral therapy and milnacipran ,snri,-2.65,,1.06,17
+ang 2013,milnacipran ,snri,-2.93,,1.07,17
+arnold 2002,placebo,placebo,1.1,2.5,,26
+arnold 2002,fluoxetine ,ssri,-0.9,2.8,,25
+arnold 2004,placebo,placebo,-0.52,,1.05,92
+arnold 2004,duloxetine ,snri,-2.98,,1.04,91
+arnold 2005,placebo,placebo,-2.6,,1,110
+arnold 2005,duloxetine ,snri,-7.3,,1,111
+arnold 2005,duloxetine ,snri,-6.7,,1,107
+arnold 2010: 1,placebo,placebo,-1.81,,0.83,126
+arnold 2010: 1,esreboxetine ,snri,-4.25,,0.83,126
+arnold 2010: 2,placebo,placebo,0.5,,0.54,509
+arnold 2010: 2,milnacipran ,snri,-1.54,,0.54,516
+arnold 2010: 3,placebo,placebo,-1.3,,0.7,267
+arnold 2010: 3,duloxetine ,snri,-5.1,,0.7,263
+arnold 2012: 1,placebo,placebo,-3.91,,0.61,134
+arnold 2012: 1,duloxetine ,snri,-5.47,,0.6,140
+atkinson 1998,placebo,placebo,0.24,6.35,,40
+atkinson 1998,nortriptyline ,tca,3.96,5.04,,38
+branco 2010,placebo,placebo,0.23,,0.43,446
+branco 2010,milnacipran ,snri,-1.23,,0.45,430
+chappell 2008,placebo,placebo,-1.7,,0.37,143
+chappell 2008,duloxetine ,snri,-2.04,,0.4,158
+chappell 2009: 1,duloxetine ,snri,-0.11,,0.28,104
+chappell 2009: 1,duloxetine ,snri,0.49,,0.21,203
+chappell 2009: 2,placebo,placebo,1.03,9.34,,113
+chappell 2009: 2,duloxetine ,snri,-1.06,8.84,,103
+clauw 2008,placebo,placebo,-2.1,,0.6,401
+clauw 2008,milnacipran ,snri,-2,,0.6,397
+clauw 2008,milnacipran ,snri,-4,,0.6,393
+enomoto 2018,pregabalin ,nonad,-2.5,,0.3,149
+enomoto 2018,duloxetine ,snri,-2.3,,0.3,152
+foster 2010: 1,placebo,placebo,-1.92,5.44,,29
+foster 2010: 1,lidocaine ,nonad,-0.86,5.9,,30
+foster 2010: 1,desipramine ,tca,-3.33,5.26,,27
+foster 2010: 1,desipramine + lidocaine ,tca,-1.77,7.58,,32
+frakes 2011,placebo,placebo,-4.15,,0.89,220
+frakes 2011,duloxetine ,snri,-4.98,,0.88,216
+gao 2010,placebo,placebo,-1.85,,0.23,109
+gao 2010,duloxetine ,snri,-2.32,,0.24,106
+goldstein 2005,placebo,placebo,-1.74,,0.48,79
+goldstein 2005,duloxetine ,snri,-2.44,,0.48,82
+goldstein 2005,duloxetine ,snri,-2.71,,0.49,78
+goldstein 2005,duloxetine ,snri,-3.11,,0.5,74
+iwaki 2020,placebo,placebo,-0.43,,1.38,23
+iwaki 2020,duloxetine ,snri,-1.22,,1.22,23
+miki 2016,placebo,placebo,-2.54,0.47,,202
+miki 2016,mirtazapine ,nassa,-2.77,0.46,,204
+murakami 2015,placebo,placebo,2,,2.52,195
+murakami 2015,duloxetine ,snri,-5.91,,2.51,191
+norregaard 1995,placebo,placebo,0.9,7.9,,21
+norregaard 1995,citalopram ,ssri,1,6.1,,21
+raskin 2005,placebo,placebo,-0.55,,0.25,101
+raskin 2005,duloxetine ,snri,-1.17,,0.25,103
+raskin 2005,duloxetine ,snri,-0.65,,0.25,100
+rowbotham 2012,placebo,placebo,-2.8,,1.2,49
+rowbotham 2012,duloxetine ,snri,-2.3,,1.2,55
+rowbotham 2012,abt-894 ,nonad,-4.8,,1.1,60
+rowbotham 2012,abt-894 ,nonad,-0.9,,1.2,53
+rowbotham 2012,abt-894 ,nonad,-3.2,,1.2,53
+russell 2008,placebo,placebo,-1.75,,1,144
+russell 2008,duloxetine ,snri,-2.56,,1.28,79
+russell 2008,duloxetine ,snri,-3.68,,0.97,150
+russell 2008,duloxetine ,snri,-4.41,,0.97,147
+shinichi 2016,placebo,placebo,-1.83,,0.11,200
+shinichi 2016,duloxetine ,snri,-2.15,,0.11,209
+skljarevski 2009,placebo,placebo,-1.02,,0.49,114
+skljarevski 2009,duloxetine ,snri,-1.24,,0.68,57
+skljarevski 2009,duloxetine ,snri,-1.54,,0.5,109
+skljarevski 2009,duloxetine ,snri,0.37,,0.5,108
+skljarevski 2010: 1,placebo,placebo,0.49,10.45,,106
+skljarevski 2010: 1,duloxetine ,snri,-2.05,9.9,,102
+skljarevski 2010: 2,placebo,placebo,-2.77,,0.95,180
+skljarevski 2010: 2,duloxetine ,snri,-6.77,,0.93,181
+talley 2008,placebo,placebo,1.9,7.2,,16
+talley 2008,imipramine ,tca,-4.8,4.5,,18
+talley 2008,citalopram ,ssri,0,4.1,,17
+tesfaye 2013,pregabalin ,nonad,-0.64,2.9,,399
+tesfaye 2013,duloxetine ,snri,-1.06,2.9,,399
+uchio 2018,placebo,placebo,-1.48,,0.99,176
+uchio 2018,duloxetine ,snri,-3.02,,0.99,177
+vollmer 2014,placebo,placebo,-3,,0.6,121
+vollmer 2014,duloxetine ,snri,-2.4,,0.6,118
+wang 2017,placebo,placebo,-1.04,,0.13,177
+wang 2017,duloxetine ,snri,-1.43,,0.13,172
+wernicke 2006,placebo,placebo,-0.64,,0.26,95
+wernicke 2006,duloxetine ,snri,-0.65,,0.26,97
+wernicke 2006,duloxetine ,snri,0.19,,0.26,101
+yasuda 2011,placebo,placebo,-1.91,,0.24,167
+yasuda 2011,duloxetine ,snri,-2.18,,0.29,85
+yasuda 2011,duloxetine ,snri,-2.39,,0.29,86

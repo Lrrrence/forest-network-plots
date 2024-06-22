@@ -1,0 +1,57 @@
+﻿study,trt,class,mean,sd,se,n
+ahmed 2016,placebo,placebo,45.3,,4,15
+ahmed 2016,milnacipran,snri,40,,6.8,15
+arnold 2012: 2,placebo,placebo,48.52,,1.16,262
+arnold 2012: 2,esreboxetine,snri,41.41,,1.25,237
+arnold 2012: 2,esreboxetine,snri,41.85,,1.25,249
+arnold 2012: 2,esreboxetine,snri,44.65,,1.24,250
+chappell 2009: 2,placebo,placebo,0.77,0.15,,114
+chappell 2009: 2,duloxetine,snri,0.82,0.14,,103
+dezanette 2014,melatonin,nonad,46.42,16.18,,21
+dezanette 2014,amitriptyline,tca,41.16,14.61,,21
+dezanette 2014,melatonin + amitriptyline,tca,40.89,10.94,,21
+drossman 2003,placebo,placebo,72.02,,2.01,66
+drossman 2003,desipramine,tca,76.31,,1.47,135
+drossman 2003,cognitive behavioural therapy,nonad,76.55,,1.16,135
+drossman 2003,education,nonad,73.6,,1.72,66
+gillving 2021,terbutaline,nonad,5.55,2.5,,40
+gillving 2021,imipramine,tca,6.36,2.48,,42
+gillving 2021,placebo,placebo,6.31,2.14,,36
+gilron 2016,placebo,placebo,42.9,,2.3,39
+gilron 2016,pregabalin,nonad,37.4,,2.3,39
+gilron 2016,duloxetine,snri,36,,2.4,39
+gilron 2016,pregabalin + duloxetine,snri,29.8,,2.5,39
+goldenberg 1996,placebo,placebo,58.5,17.1,,19
+goldenberg 1996,amitriptyline,tca,52.3,22.9,,21
+goldenberg 1996,fluoxetine,ssri,47.6,19.8,,22
+goldenberg 1996,amitriptyline + fluoxetine,tca + ssri,38,21.2,,19
+hadianfard 2012,acupuncture,nonad,38.1,12.1,,15
+hadianfard 2012,fluoxetine,ssri,42.7,9.6,,15
+hammody 2015,pregabalin,nonad,40.06,26.1,,14
+hammody 2015,amitriptyline,tca,60.98,19.01,,20
+heymann 2001,amitriptyline,tca,39.97,,3.27,37
+heymann 2001,nortriptyline,tca,48.78,,3.64,36
+heymann 2001,placebo,placebo,51.68,,3.99,33
+hussain 2011,melatonin,nonad,49,,3.38,27
+hussain 2011,fluoxetine,ssri,48,,3.88,24
+hussain 2011,fluoxetine + melatonin,ssri,42.33,,1.87,27
+hussain 2011,fluoxetine + melatonin,ssri,44,,2.88,23
+machado 2018,waitlist,nonad,20.52,14.03,,21
+machado 2018,amitriptyline,tca,17.67,10.58,,21
+machado 2018,amitriptyline + splint,tca,14.91,13.56,,23
+machado 2018,acupuncture,nonad,22.85,13.13,,13
+matthey 2013,placebo,placebo,54.1,18.6,,39
+matthey 2013,milnacipran,snri,44.1,20.8,,38
+rowbotham 2012,placebo,placebo,0.66,0.16,,51
+rowbotham 2012,duloxetine,snri,0.67,0.16,,56
+rowbotham 2012,abt-894,nonad,0.63,0.21,,60
+rowbotham 2012,abt-894,nonad,0.63,0.2,,54
+rowbotham 2012,abt-894,nonad,0.67,0.2,,55
+shakiba 2018,saffron/crocin,nonad,42.13,10.75,,23
+shakiba 2018,duloxetine,snri,41.35,10.48,,23
+urquhart 2018,placebo,placebo,70.1,2.2,,57
+urquhart 2018,amitriptyline,tca,73.9,1.8,,61
+vranken 2011,placebo,placebo,0.37,0.34,,23
+vranken 2011,duloxetine,snri,0.4,0.31,,21
+zabihiyeganeh 2021,cognitive behavioural therapy,nonad,57.9,18.7,,64
+zabihiyeganeh 2021,duloxetine,snri,58.1,18.9,,64

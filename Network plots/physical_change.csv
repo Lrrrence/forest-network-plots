@@ -1,0 +1,77 @@
+study,trt,class,mean,sd,se,n
+ang 2013,cognitive behavioural therapy ,nonad,-15.04,,4.01,15
+ang 2013,cognitive behavioral therapy and milnacipran standard,snri,-13.47,,3.74,17
+ang 2013,milnacipran standard,snri,-4.05,,3.84,17
+arnold 2002,placebo,placebo,-0.4,2.1,,26
+arnold 2002,fluoxetine unable to be categorised,ssri,-1.1,2.3,,25
+arnold 2004,placebo,placebo,-2.53,,0.8,92
+arnold 2004,duloxetine high,snri,-5.49,,0.81,91
+arnold 2005,placebo,placebo,-3,,0.8,110
+arnold 2005,duloxetine standard,snri,-4.6,,0.8,111
+arnold 2005,duloxetine high,snri,-4.9,,0.8,107
+arnold 2010: 1,placebo,placebo,-1.86,,0.59,126
+arnold 2010: 1,esreboxetine unable to be categorised,snri,-4.36,,0.59,126
+arnold 2010: 2,placebo,placebo,-2.89,,0.42,509
+arnold 2010: 2,milnacipran standard,snri,-4.62,,0.43,516
+arnold 2010: 3,placebo,placebo,-4.8,,0.6,267
+arnold 2010: 3,duloxetine high,snri,-6,,0.6,263
+atkinson 1998,placebo,placebo,1.56,3.1,,40
+atkinson 1998,nortriptyline unable to be categorised,tca,2.17,4.49,,38
+branco 2010,placebo,placebo,-3.57,,0.35,446
+branco 2010,milnacipran high,snri,-4.55,,0.36,430
+chappell 2008,placebo,placebo,-2.06,,0.63,162
+chappell 2008,duloxetine high,snri,-2.61,,0.67,146
+chappell 2009: 1,duloxetine standard,snri,-0.49,,0.81,104
+chappell 2009: 1,duloxetine high,snri,1.47,,0.59,203
+chappell 2009: 2,placebo,placebo,-6.36,9.24,,113
+chappell 2009: 2,duloxetine high,snri,-7.71,8.61,,103
+chappell 2011,placebo,placebo,-4.41,,0.81,128
+chappell 2011,duloxetine high,snri,-7.82,,0.85,128
+clauw 2008,placebo,placebo,-2.3,,0.4,401
+clauw 2008,milnacipran standard,snri,-3.7,,0.4,397
+clauw 2008,milnacipran high,snri,-2.9,,0.4,393
+frakes 2011,placebo,placebo,-13.81,,1.13,256
+frakes 2011,duloxetine high,snri,-21.1,,1.13,251
+gao 2015,placebo,placebo,-5.09,,0.42,175
+gao 2015,duloxetine standard,snri,-6.36,,0.4,172
+goldstein 2005,placebo,placebo,-3.94,,0.77,102
+goldstein 2005,duloxetine low,snri,-3.67,,0.78,98
+goldstein 2005,duloxetine standard,snri,-5.86,,0.77,101
+goldstein 2005,duloxetine high,snri,-5.85,,0.76,101
+miki 2016,placebo,placebo,-4.3,0.55,,202
+miki 2016,mirtazapine standard,nassa,-3.96,0.55,,204
+murakami 2015,placebo,placebo,-3.04,,2.15,195
+murakami 2015,duloxetine standard,snri,-7.4,,2.13,191
+norregaard 1995,placebo,placebo,0,0.4,,21
+norregaard 1995,citalopram standard,ssri,0,0.4,,21
+rowbotham 2012,placebo,placebo,-3.8,,0.9,49
+rowbotham 2012,duloxetine standard,snri,-6.8,,0.8,55
+rowbotham 2012,abt-894 ,nonad,-4.9,,0.8,60
+rowbotham 2012,abt-894 ,nonad,-4.7,,0.8,53
+rowbotham 2012,abt-894 ,nonad,-5,,0.8,53
+russell 2008,placebo,placebo,-4.85,,0.68,144
+russell 2008,duloxetine standard,snri,-5.63,,0.86,79
+russell 2008,duloxetine standard,snri,-5.38,,0.66,150
+russell 2008,duloxetine high,snri,-5.23,,0.65,147
+shinichi 2016,placebo,placebo,-3.23,,0.22,226
+shinichi 2016,duloxetine standard,snri,-3.86,,0.22,230
+skljarevski 2009,placebo,placebo,-1.33,,0.43,92
+skljarevski 2009,duloxetine low,snri,-2.29,,0.56,52
+skljarevski 2009,duloxetine standard,snri,-2.74,,0.44,83
+skljarevski 2009,duloxetine high,snri,-2.88,,0.45,83
+skljarevski 2010: 1,placebo,placebo,-4.12,8.97,,106
+skljarevski 2010: 1,duloxetine high,snri,-5.69,9.17,,102
+skljarevski 2010: 2,placebo,placebo,-2.22,,0.32,179
+skljarevski 2010: 2,duloxetine standard,snri,-2.69,,0.31,178
+talley 2008,placebo,placebo,-6.5,4.6,,16
+talley 2008,imipramine low,tca,-7.3,7.3,,18
+talley 2008,citalopram standard,ssri,-3.5,6.1,,17
+tesfaye 2013,pregabalin ,nonad,-3.37,7.82,,401
+tesfaye 2013,duloxetine standard,snri,-4.39,6.23,,235
+uchio 2018,placebo,placebo,-6.23,,1.27,176
+uchio 2018,duloxetine standard,snri,-12.62,,1.27,177
+wang 2017,placebo,placebo,-10.09,,0.9,182
+wang 2017,duloxetine standard,snri,-13.58,,0.92,184
+wernicke 2006,placebo,placebo,-3.67,,0.78,100
+wernicke 2006,duloxetine standard,snri,-6.85,,0.76,107
+wernicke 2006,duloxetine high,snri,-7.46,,0.77,106

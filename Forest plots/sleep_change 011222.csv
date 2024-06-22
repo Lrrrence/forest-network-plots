@@ -1,0 +1,9 @@
+﻿treatment,mean,lwrCrI (2.5%),uppCrI (97.5%),n,class
+citalopram standard,-0.32,-0.98,0.33,21,ssri
+duloxetine high,-0.14,-0.27,-0.01,891,snri
+duloxetine low,-0.1,-0.32,0.13,141,snri
+duloxetine standard,-0.21,-0.3,-0.12,1640,snri
+esreboxetine unable to be categorised,-0.09,-0.39,0.22,126,snri
+milnacipran high,-0.03,-0.29,0.2,396,snri
+milnacipran standard,-0.06,-0.3,0.17,398,snri
+milnacipran unable to be categorised,-0.26,-0.71,0.19,97,snri

@@ -1,0 +1,38 @@
+study,trt,class,mean,sd,se,n
+ahmed 2016,placebo,placebo,34.9,,3.8,15
+ahmed 2016,milnacipran,snri,37.8,,4.4,15
+boyle 2012,pregabalin,nonad,2.9,,0.7,19
+boyle 2012,amitriptyline,tca,2,,0.5,23
+boyle 2012,duloxetine,snri,2.5,,0.6,23
+chappell 2009: 2,placebo,placebo,2.59,2.52,,118
+chappell 2009: 2,duloxetine,snri,2.05,2.56,,104
+dezanette 2014,melatonin,nonad,16.68,8.38,,21
+dezanette 2014,amitriptyline,tca,11.84,5.82,,21
+dezanette 2014,melatonin + amitriptyline,tca,16.11,8.4,,21
+gillving 2021,terbutaline,nonad,4.97,3.27,,47
+gillving 2021,imipramine,tca,4.09,3.02,,47
+gillving 2021,placebo,placebo,4.84,2.86,,47
+gilron 2016,placebo,placebo,5.1,,0.5,39
+gilron 2016,pregabalin,nonad,3.3,,0.5,39
+gilron 2016,duloxetine,snri,4.9,,0.5,39
+gilron 2016,pregabalin + duloxetine,snri,2.8,,0.5,39
+ginsberg 1996,placebo,placebo,5.1,3,,22
+ginsberg 1996,amitriptyline,tca,2.6,3.1,,24
+goldenberg 1996,placebo,placebo,74.6,23.9,,19
+goldenberg 1996,amitriptyline,tca,57,34.8,,21
+goldenberg 1996,fluoxetine,ssri,66,26.6,,22
+goldenberg 1996,amitriptyline + fluoxetine,tca + ssri,39.9,29.2,,18
+goldman 2010,placebo,placebo,1.8,1.5,,59
+goldman 2010,amitriptyline,tca,1.4,1.1,,59
+hannonen 1998,moclobemide,maoi_rev,5.8,3,,43
+hannonen 1998,amitriptyline,tca,3.6,2.8,,42
+hannonen 1998,placebo,placebo,4.8,2.9,,43
+matthey 2013,placebo,placebo,52.9,19.8,,39
+matthey 2013,milnacipran,snri,52.3,19,,38
+otto 2008,placebo,placebo,4,2.7,,41
+otto 2008,escitalopram,ssri,3,2.4,,41
+razazian 2014,carbamazepine,nonad,2.4,0.9,,78
+razazian 2014,pregabalin,nonad,1.77,0.8,,77
+razazian 2014,venlafaxine,snri,2.66,1.4,,69
+wolfe 1994,placebo,placebo,7.6,3.83,,9
+wolfe 1994,fluoxetine,ssri,7.6,3.1,,15

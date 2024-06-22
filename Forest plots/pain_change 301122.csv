@@ -1,0 +1,25 @@
+﻿treatment,mean,lwrCrI (2.5%),uppCrI (97.5%),n,class
+abt-894 ,0.11,-0.16,0.37,170,nonad
+amitriptyline high,-0.31,-1.1,0.47,38,tca
+amitriptyline standard,-0.12,-0.44,0.21,130,tca
+amitriptyline unable to be categorised,-1.1,-1.74,-0.46,24,tca
+citalopram standard,-0.19,-0.68,0.32,38,ssri
+cognitive behavioral therapy and milnacipran standard,-0.87,-1.62,-0.11,17,snri
+cognitive behavioural therapy ,-0.6,-1.36,0.16,15,nonad
+desipramine + lidocaine standard,-0.25,-0.8,0.29,30,tca
+desipramine standard,-0.12,-0.71,0.47,59,tca
+desvenlafaxine high,-0.47,-0.79,-0.16,175,snri
+desvenlafaxine standard,-0.32,-0.72,0.09,49,snri
+duloxetine high,-0.37,-0.45,-0.28,1925,snri
+duloxetine low,-0.11,-0.25,0.03,560,snri
+duloxetine standard,-0.31,-0.39,-0.24,2727,snri
+esreboxetine unable to be categorised,-0.3,-0.62,0.01,133,snri
+fluoxetine unable to be categorised,-0.9,-1.51,-0.32,25,ssri
+gabapentin ,0.25,-0.49,1.01,19,nonad
+imipramine low,-1.03,-1.65,-0.43,18,tca
+lidocaine ,0.2,-0.37,0.76,27,nonad
+milnacipran high,-0.22,-0.39,-0.06,823,snri
+milnacipran standard,-0.21,-0.39,-0.05,943,snri
+milnacipran unable to be categorised,-0.44,-0.78,-0.09,176,snri
+nortriptyline unable to be categorised,0.45,-0.05,0.94,38,tca
+pregabalin ,-0.08,-0.3,0.12,550,nonad

@@ -1,0 +1,16 @@
+﻿treatment,mean,lwrCrI (2.5%),uppCrI (97.5%),n,class
+ abt-894   ,-0.04,-0.29,0.21,166,nonad
+ citalopram standard ,0.21,-0.23,0.67,38,ssri
+ cognitive behavioral therapy and milnacipran standard ,-0.78,-1.52,-0.06,17,snri
+ cognitive behavioural therapy   ,-0.88,-1.6,-0.15,15,nonad
+ duloxetine high ,-0.23,-0.3,-0.16,1831,snri
+ duloxetine low ,-0.03,-0.22,0.16,150,snri
+ duloxetine standard ,-0.24,-0.32,-0.18,2157,snri
+ esreboxetine unable to be categorised ,-0.38,-0.65,-0.11,126,snri
+ fluoxetine unable to be categorised ,-0.31,-0.88,0.26,25,ssri
+ imipramine low ,-0.2,-0.85,0.45,18,tca
+ milnacipran high ,-0.1,-0.22,0.02,823,snri
+ milnacipran standard ,-0.18,-0.3,-0.07,930,snri
+ mirtazapine standard ,0.62,0.4,0.83,204,nassa
+ nortriptyline unable to be categorised ,0.16,-0.28,0.6,38,tca
+ pregabalin   ,-0.1,-0.3,0.09,401,nonad

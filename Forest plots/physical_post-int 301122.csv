@@ -1,0 +1,35 @@
+﻿treatment,mean,lwrCrI (2.5%),uppCrI (97.5%),n,class
+acupuncture  ,-0.09,-2.62,2.54,15,nonad
+amitriptyline standard,-0.77,-1.77,0.26,137,tca
+amitriptyline unable to be categorised,0.2,-1.06,1.46,63,tca
+benzotropine mesylate + cognitive behavioural therapy  ,-0.05,-1.78,1.75,34,nonad
+cognitive behavioural therapy  ,-0.61,-2.41,1.18,23,nonad
+coping skills training + sertraline high,-0.34,-2.09,1.41,28,ssri
+coping skills training  ,-0.14,-1.9,1.65,29,nonad
+desipramine + cognitive behavioural therapy low,-0.18,-1.92,1.58,37,tca
+desipramine low,-0.36,-2.26,1.42,37,tca
+dothiepin standard,0.04,-1.72,1.84,25,tca
+duloxetine high,-0.05,-1.07,0.97,65,snri
+duloxetine standard,-0.16,-1.12,0.84,184,snri
+duloxetine unable to be categorised,0.16,-1.49,1.72,39,snri
+escitalopram standard,-4.1,-6,-2.16,25,ssri
+esreboxetine high,0.02,-1.72,1.81,250,snri
+esreboxetine standard,0.09,-1.4,1.55,488,snri
+fluoxetine + melatonin standard,-1.07,-3.34,1.26,50,ssri
+fluoxetine standard,-0.16,-2.03,1.75,54,ssri
+melatonin  ,0.34,-2.15,3,27,nonad
+milnacipran high,-0.43,-1.71,0.87,64,snri
+mirtazapine low,3.53,1.41,5.64,13,nassa
+mirtazapine standard,2.98,0.95,4.97,14,nassa
+moclobemide high,-0.6,-2.19,0.96,43,maoi rev
+morphine + nortriptyline low,-0.2,-1.96,1.57,28,tca
+morphine  ,-0.3,-2.05,1.53,28,nonad
+nortriptyline low,-0.07,-1.78,1.65,102,tca
+nortriptyline standard,-0.2,-2.04,1.56,28,tca
+paroxetine low,-0.14,-1.85,1.53,44,ssri
+paroxetine unable to be categorised,-0.67,-2.51,1.14,23,ssri
+pregabalin + duloxetine unable to be categorised,0.37,-1.2,2.03,39,snri
+pregabalin  ,-0.33,-1.33,0.66,80,nonad
+sertraline high,-0.22,-1.98,1.55,30,ssri
+trazodone standard,0.16,-1.54,1.94,21,sari
+venlafaxine low,-0.02,-1.83,1.72,22,snri

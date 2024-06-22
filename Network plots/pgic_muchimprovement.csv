@@ -1,0 +1,32 @@
+﻿study,trt,class,n,r
+allen 2017,placebo,placebo,126,54
+allen 2017,desvenlafaxine standard,snri,131,33
+allen 2017,desvenlafaxine high,snri,131,50
+allen 2017,desvenlafaxine high,snri,132,58
+allen 2017,desvenlafaxine high,snri,139,65
+arnold 2010: 2,placebo,placebo,509,132
+arnold 2010: 2,milnacipran standard,snri,516,216
+arnold 2012: 2,placebo,placebo,275,80
+arnold 2012: 2,esreboxetine standard,snri,264,110
+arnold 2012: 2,esreboxetine standard,snri,272,116
+arnold 2012: 2,esreboxetine high,snri,275,110
+bateman 2011,milnacipran unable to be categorised,snri,79,26
+bateman 2011,placebo,placebo,21,5
+branco 2010,placebo,placebo,446,92
+branco 2010,milnacipran high,snri,430,143
+clauw 2008,placebo,placebo,401,100
+clauw 2008,milnacipran standard,snri,399,149
+clauw 2008,milnacipran high,snri,396,151
+frakes 2011,placebo,placebo,260,70
+frakes 2011,duloxetine high,snri,264,108
+mease 2009,placebo,placebo,145,88
+mease 2009,milnacipran standard,snri,128,97
+mease 2009,milnacipran high,snri,239,186
+murakami 2015,placebo,placebo,195,51
+murakami 2015,duloxetine standard,snri,191,88
+vollmer 2014,placebo,placebo,121,19
+vollmer 2014,duloxetine standard,snri,118,29
+vranken 2011,placebo,placebo,20,0
+vranken 2011,duloxetine high,snri,23,5
+wang 2017,placebo,placebo,177,36
+wang 2017,duloxetine standard,snri,172,67
